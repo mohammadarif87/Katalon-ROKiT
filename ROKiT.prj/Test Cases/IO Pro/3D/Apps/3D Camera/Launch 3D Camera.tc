@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch 3D Camera</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>372ee2f6-9865-4933-a3c6-a02fee603081</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.camera3d.rokit'</defaultValue>
+      <description></description>
+      <id>1b5711ea-03d5-4178-af35-a052ec901a09</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.mobile.depthy3d.ImageListActivity'</defaultValue>
+      <description></description>
+      <id>a03837bc-2405-4f0a-b8ec-3440b6a63a04</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>e50bf9ba-a814-410a-9e22-ac99a81eb6e7</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Data management</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f863098-512a-4390-aa85-15f507631681</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>95af7b99-13b5-4d29-8249-22f3275c3643</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>54da181c-1091-4baa-af32-b896cc90cb40</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>4ed06ba9-3fae-40d0-ad2d-225c67479fc4</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

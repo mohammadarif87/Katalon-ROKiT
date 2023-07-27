@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Contact to IO Pro SIM 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4874d0ca-94f0-465e-8cb8-806adde7e49f</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.messaging'</defaultValue>
+      <description></description>
+      <id>61af80fc-dedf-44e1-b073-22a6027bba33</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>46ecce74-2460-4db7-9a48-b0bc2174fcb9</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>da608eeb-d3d3-414e-bebe-d059966e392b</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

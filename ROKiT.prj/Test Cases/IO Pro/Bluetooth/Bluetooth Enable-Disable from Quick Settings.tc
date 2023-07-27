@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bluetooth Enable-Disable from Quick Settings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43ab816b-c398-4e6d-b827-2b47b4fbee5b</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>7d4b270a-82a7-4a77-b39e-478160024656</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>84894c1d-11ab-43dc-96ef-9fad592f418a</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>05e7af6e-c5fd-48d2-a57e-4f63244b5a9f</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

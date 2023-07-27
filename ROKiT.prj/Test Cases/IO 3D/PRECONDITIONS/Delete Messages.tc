@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Messages</name>
+   <tag></tag>
+   <comment>If Messages app fails to load with this test, it needs to be updated via Play Store</comment>
+   <testCaseGuid>44c88798-0402-4323-a633-8655c7ccf24c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.messaging'</defaultValue>
+      <description></description>
+      <id>5b3cc385-e59d-48b9-b476-62c79df66e0a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>88649a69-bfc8-42db-9118-4c490044e73e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformName') : 'Android', ('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO Pro (Android 8.1.0)', ('udid') : '0123456789ABCDEF']</defaultValue>
+      <description></description>
+      <id>c8236739-91cf-4cd1-b1c2-c63a1a51d778</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Backup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e614b278-d29f-4a3d-82f6-05db7f8564fc</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>0435c360-2d6a-4e01-a4d1-0fcaed8969b6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>62a3392b-3c33-4f0a-bb56-56fd3e627334</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>90288155-cca3-4fb7-afbc-a15fc7ca94ec</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

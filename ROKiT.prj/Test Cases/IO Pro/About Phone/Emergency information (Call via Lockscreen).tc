@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emergency information (Call via Lockscreen)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a393f896-e121-43c7-a653-064a6a95ba6b</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>40880837-f727-4019-95ea-e9f5db1c0db5</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>7fab349a-25f4-45e6-b57b-0454b4aec1ea</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>664c72e5-e195-4c3c-9260-7897831673d6</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Connect to IO Pro Bluetooth for Tethering</name>
+   <tag></tag>
+   <comment>Test case required IO 3D to have manually been paired previously</comment>
+   <testCaseGuid>a0300f9d-f75e-43c2-8019-6fd7d99705cc</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>920364cd-e84b-4421-ace2-ddb973898aac</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>916c08f3-0650-4051-a21c-bfcd44f23205</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>ecd74fcd-d867-4d75-8333-95470a9c39ac</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.chrome'</defaultValue>
+      <description></description>
+      <id>73e885f7-4444-4617-940d-fd60d2ecd8d1</id>
+      <masked>false</masked>
+      <name>appPackage2</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>8d4d66c1-0f10-4912-a86d-89577aebc2a1</id>
+      <masked>false</masked>
+      <name>appActivity2</name>
+   </variable>
+</TestCaseEntity>

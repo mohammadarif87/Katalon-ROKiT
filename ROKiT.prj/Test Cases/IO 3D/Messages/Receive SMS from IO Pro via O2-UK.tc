@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Receive SMS from IO Pro via O2-UK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a65db201-1aba-4738-81b3-2bba3fecd5ac</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.messaging'</defaultValue>
+      <description></description>
+      <id>30706de5-395e-47c9-bc32-87c72c5d4e63</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>c13a8b88-f89d-4227-aceb-ec70294894c5</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>5ea9b86c-68c9-4ff4-b9c6-48603af60235</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

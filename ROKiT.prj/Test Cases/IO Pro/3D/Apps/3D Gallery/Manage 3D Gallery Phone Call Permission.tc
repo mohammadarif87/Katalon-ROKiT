@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manage 3D Gallery Phone Call Permission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a9e182-3aef-4ebf-9026-ce1da5fdbfed</testCaseGuid>
+   <variable>
+      <defaultValue>'com.rokit.media3d'</defaultValue>
+      <description></description>
+      <id>57aab0d0-d1c8-4d4b-aad5-b4d245a41b5c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.media3d.service.navigation.SplashActivity'</defaultValue>
+      <description></description>
+      <id>f895285c-7a5a-482a-aea9-c3f8fa5edbe2</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>a10c073b-1c10-4205-86b9-419abab57395</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

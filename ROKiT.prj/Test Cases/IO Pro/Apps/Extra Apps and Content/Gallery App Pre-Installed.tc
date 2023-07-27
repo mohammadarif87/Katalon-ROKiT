@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gallery App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed946ebd-05b3-4937-b456-e731d93826af</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.gallery'</defaultValue>
+      <description></description>
+      <id>5b8e6561-5a0d-4bcd-b253-da15b98afc93</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.cooliris.media.Gallery'</defaultValue>
+      <description></description>
+      <id>158004ec-14c4-4222-812f-36b3aa880316</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>b902e8ba-a648-4e3a-ad57-dc88032c2ff2</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

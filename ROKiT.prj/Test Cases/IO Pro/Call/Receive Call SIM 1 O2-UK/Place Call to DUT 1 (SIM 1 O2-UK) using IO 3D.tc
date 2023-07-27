@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Call to DUT 1 (SIM 1 O2-UK) using IO 3D</name>
+   <tag></tag>
+   <comment>Run in parallel execution with Receive Call on SIM 1 (Both SIMs)</comment>
+   <testCaseGuid>3d0e9eab-f22f-49b8-8520-98473da0e7c2</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>20d5da3a-23d7-40b0-8ee3-ffd339b1af29</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>a117af09-03aa-4702-8e7f-7f65c3bad8e9</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>5d9145fd-d264-4708-882c-e3463b69789d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

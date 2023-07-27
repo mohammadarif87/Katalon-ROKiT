@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download Network Cell Info App</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3becf6a-f97f-41a3-952e-f78a98bc15e7</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.vending'</defaultValue>
+      <description></description>
+      <id>9c925907-fc1a-4e90-a828-c71bf306959d</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.AssetBrowserActivity'</defaultValue>
+      <description></description>
+      <id>9a5ce936-b5d7-4c96-99d8-b7e90c282455</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>1a0b1694-5643-4830-bee4-bfd0e7f9b3f3</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ROKiT Hub App permissions granted - Negative-02</name>
+   <tag></tag>
+   <comment>Run afrer &quot;Verify permissions granted - Negative-01&quot;</comment>
+   <testCaseGuid>e0362460-fc4c-4499-bb1a-e7d0a3135ea7</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>7e1165c2-ae19-4fe6-a09e-6305868bad20</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>9cbd96e3-57d1-46d6-a4d8-439cccddf3e9</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>5f60e37d-256a-43f7-9d57-a9e5bae335aa</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

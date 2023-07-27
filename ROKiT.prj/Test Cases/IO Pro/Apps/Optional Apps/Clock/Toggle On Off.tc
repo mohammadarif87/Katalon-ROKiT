@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Toggle On Off</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10850a57-8bea-4d57-99bf-2260ab8b9b10</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.deskclock'</defaultValue>
+      <description></description>
+      <id>e37dcf94-70cd-44f6-a0c1-b3a4a6739e8a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.DeskClock'</defaultValue>
+      <description></description>
+      <id>f5f69527-a052-44da-b2e4-04f6a3649217</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>c46f09c8-ccf2-4708-8622-cf0e6b66d96d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

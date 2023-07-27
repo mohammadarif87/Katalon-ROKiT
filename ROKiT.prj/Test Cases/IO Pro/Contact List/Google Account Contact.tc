@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Google Account Contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab87123f-54aa-448b-b9f9-2c6177e4e3f3</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>333675da-c17b-47d6-80ff-0d7282fbd1d6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>e3a1c015-5a4b-4bc3-9646-8a59e12cee5b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>243fc959-ef49-4e27-860f-d5573b4d93c8</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

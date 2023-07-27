@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rear Camera View and Delete Video</name>
+   <tag></tag>
+   <comment>Delete the picture taken via Camera app</comment>
+   <testCaseGuid>7317977e-5ba3-4615-bb3e-e7c250861386</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.camera'</defaultValue>
+      <description></description>
+      <id>42db692f-19e1-4e87-90ec-97d7be6f59d6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>ae56ab84-108d-4ba4-a394-ff6f4de237af</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>cf7a6f71-c57f-47c1-8494-b3d966dedf13</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Take Photo and Send MMS (Both SIMs O2-UK - Wi-Fi On)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81beae39-3eb1-4ec1-99d0-40a0a06b3fac</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.messaging'</defaultValue>
+      <description></description>
+      <id>87f8aeb9-34bf-4461-969b-1527876d185a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>952ddd3b-4e66-4de5-b23c-b77e803fc893</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>f8630525-3801-4aeb-96af-a5fe8bf5de8f</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

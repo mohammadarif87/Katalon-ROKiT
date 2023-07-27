@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Play Music App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bb1e7b5-bc31-481a-86c0-864bde6b5842</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.music'</defaultValue>
+      <description></description>
+      <id>1cb6e276-5463-432e-b8f9-5bdfd725f819</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.ui.HomeActivity'</defaultValue>
+      <description></description>
+      <id>9a3ebd40-bf2e-46eb-8bce-e095ab3acc23</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>9ca56cb1-3981-4050-b0ed-0642fe3f577b</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

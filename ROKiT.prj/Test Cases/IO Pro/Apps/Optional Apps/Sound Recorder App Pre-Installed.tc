@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sound Recorder App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>305c5f08-679c-4774-a921-1d73ef0b97c9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.soundrecorder'</defaultValue>
+      <description></description>
+      <id>244549ff-4153-4fa0-8879-f8ccc401622d</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.SoundRecorder'</defaultValue>
+      <description></description>
+      <id>e00f0a63-d8fa-4ecb-a38c-3022b03ed5bc</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>333c451f-c8d7-4236-b6b3-76d812692418</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send SMS to IO Pro SIM 2</name>
+   <tag></tag>
+   <comment>TODO - Change this to state 'via EE'</comment>
+   <testCaseGuid>00fb8463-0b45-454a-8ef2-23715259f8cc</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.messaging'</defaultValue>
+      <description></description>
+      <id>6df0ed36-7169-464e-b22b-cc0de6314fea</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>da42b3b1-8401-4ea8-b383-8832654d9acc</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>f7638e58-c63f-4d04-a735-ac08e888adf9</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify switching between Camera modes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1487f3a6-6502-4afe-adba-20e51822254d</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.camera'</defaultValue>
+      <description></description>
+      <id>2128dd13-7ccc-4e9e-abcf-fee52035810c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>639ac4b1-2849-4c9b-9010-b7ef7acb8e71</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>3c3dbf5e-f303-4efb-b397-8bf17157255d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

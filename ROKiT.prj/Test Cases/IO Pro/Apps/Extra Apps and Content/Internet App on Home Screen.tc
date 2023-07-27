@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Internet App on Home Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d64424b6-beab-4295-a9df-22d0105d28aa</testCaseGuid>
+   <variable>
+      <defaultValue>'com.libertyvaults.rokit'</defaultValue>
+      <description></description>
+      <id>b64f187d-37bb-4991-9d05-fd539d5c5a23</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>2161e2ad-5fbc-4262-a88b-0e64b7e1a4f2</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>1a5dce1c-5bc7-4552-ba21-80e5760610c8</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

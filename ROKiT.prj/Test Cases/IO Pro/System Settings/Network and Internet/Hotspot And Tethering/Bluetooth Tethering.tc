@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bluetooth Tethering</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5e5200b-48d2-494c-8ffe-cbde4316c9d2</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>6c802030-7097-417c-b5e2-df2406af0bda</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>4c43d1a4-7c3a-465b-b204-229b9a687279</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>4a6879b5-e668-4524-9252-76f5e9136be4</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.chrome'</defaultValue>
+      <description></description>
+      <id>d10eb70f-3b91-4eeb-8803-968ee3cb1d6b</id>
+      <masked>false</masked>
+      <name>appPackage2</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>8a15ab69-6da3-456d-92fa-ba18bb99613e</id>
+      <masked>false</masked>
+      <name>appActivity2</name>
+   </variable>
+</TestCaseEntity>

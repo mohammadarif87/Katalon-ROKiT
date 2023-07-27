@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download Wi-Fi Direct Plus App</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62449dfd-281d-4b57-9d9a-6cc7a1b784a9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.vending'</defaultValue>
+      <description></description>
+      <id>5e26409c-5c8f-4e3b-bd35-6fd5d83dee97</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.AssetBrowserActivity'</defaultValue>
+      <description></description>
+      <id>11b01d0c-5a6b-437e-ac0c-8e8d7e07294d</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>b50988b5-c7fa-4d7c-931a-0ac05603c1cc</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

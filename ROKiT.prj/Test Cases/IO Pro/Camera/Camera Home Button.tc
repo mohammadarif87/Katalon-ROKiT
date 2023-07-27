@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Camera Home Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5881ce31-b42b-4f06-a86a-64bf16b0f685</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.camera'</defaultValue>
+      <description></description>
+      <id>9e7e04cf-a860-42ad-b5c9-f67db2a88b69</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>71b598ca-a3a8-41a8-a353-622fac1c267a</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>490767d3-ba4e-4e9e-a6da-0e05e705bbeb</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

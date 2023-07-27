@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rear Camera Photo Resolution</name>
+   <tag></tag>
+   <comment>Check Resolution is on max (13 megapixels)
+Delete the picture taken via Camera app</comment>
+   <testCaseGuid>23a7d164-05b2-4740-b194-e52a452fda6e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.camera'</defaultValue>
+      <description></description>
+      <id>0e84a4bc-d3d5-458f-81dd-463f438ae29c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>6c444442-3c24-4fff-9b47-0d0970ce90fc</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>53e7b55a-4ecf-44d2-af17-47ac8f17237d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

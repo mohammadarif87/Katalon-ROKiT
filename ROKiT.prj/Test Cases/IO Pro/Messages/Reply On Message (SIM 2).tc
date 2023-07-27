@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reply On Message (SIM 2)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>945063c3-0db3-4ecd-9580-d1d2b25a6881</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>33a5687b-0593-4af6-902d-ebbb2e0e56a1</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>4f97adf5-85e4-48c5-a098-20bed156b298</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO PRO (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>df56d7b2-3f0b-479d-bb5d-c5ec7809fe31</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

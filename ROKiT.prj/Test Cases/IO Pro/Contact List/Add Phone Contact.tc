@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Phone Contact</name>
+   <tag></tag>
+   <comment>Delete the contact just added</comment>
+   <testCaseGuid>04eb7176-e5ad-4e35-8958-b2aabde81eed</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>911e0526-7ced-438c-a4dd-d39ff997bbde</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>f5e9cda3-08e3-4d31-a4f5-35b85eb9f333</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>44972ee2-6936-4845-8d18-daa9b7843fa7</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

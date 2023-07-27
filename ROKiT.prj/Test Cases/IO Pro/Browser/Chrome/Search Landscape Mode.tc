@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Landscape Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b999e26-f67d-44d1-8e84-9c6c03b60712</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.chrome'</defaultValue>
+      <description></description>
+      <id>6df12cf6-aa4b-4988-be32-e4229e337799</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>0a700a47-9989-407f-b652-8ce6d9c00397</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>cd74c524-7f25-4cae-b77a-a330dbb8f9ba</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete All Albums From Gallery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09f33203-f53d-4843-94c9-02cc590db7f3</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.gallery'</defaultValue>
+      <description></description>
+      <id>f4cb2126-48a1-4076-96b8-898400a4f94e</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.cooliris.media.Gallery'</defaultValue>
+      <description></description>
+      <id>a62d006b-c948-4cd8-9153-95f813e4f010</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>8130b2c0-119d-45d5-b95d-c01c0d093194</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

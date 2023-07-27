@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete sound recording files</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8db48e5c-38d4-4d75-b03b-ad35042737b6</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.soundrecorder'</defaultValue>
+      <description></description>
+      <id>89b1f7f1-bd56-4916-af92-0ed3115095f1</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.SoundRecorder'</defaultValue>
+      <description></description>
+      <id>f08a0720-3c67-41fb-8661-cba2d0819365</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>133105eb-8e2f-4370-b666-86a703e73a10</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

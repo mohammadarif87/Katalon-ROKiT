@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile Data Long Press from Quick Settings (Both SIM - SIM 1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2bfd079-a68e-4845-9ac3-cfbd5c6d6a88</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>ef16f2a2-9ad2-43bc-91d1-7b6b5a8aab5a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>f6b9b1a9-1a74-4249-960e-35646c959af6</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>672f4b99-5349-4d22-95d2-1fd39a0bc7d6</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

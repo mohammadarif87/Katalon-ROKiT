@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gboard Dictionary Delete word</name>
+   <tag></tag>
+   <comment>YOU MIGHT HAVE TO MANUALLY DELETE THE WORD FROM GBOARD</comment>
+   <testCaseGuid>2e87106f-579f-44ac-a0eb-58a822e0fea7</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>b5e6940d-f109-41bd-b352-5f6f35c5039c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>9d0765eb-9a0a-4dc3-af0c-3d61f417b8bd</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>8ae04e4c-2f62-4067-8377-e32a76905b00</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

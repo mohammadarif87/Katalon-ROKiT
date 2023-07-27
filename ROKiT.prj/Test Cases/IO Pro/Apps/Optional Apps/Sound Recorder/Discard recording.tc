@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Discard recording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b98ad20e-7c06-492e-9a87-b18cda206e1c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.soundrecorder'</defaultValue>
+      <description></description>
+      <id>883676c6-c3ef-4f9f-b907-26aef68de311</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.SoundRecorder'</defaultValue>
+      <description></description>
+      <id>06c23b5d-7921-44fa-98aa-e47a7997f908</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>5387cf6e-9edd-46b9-ba4f-78aa55c95216</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

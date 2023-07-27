@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Receive and Delete SMS (from SIM 2 - EE) 10xLoop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80898f45-eeb0-4e4b-8458-dcf6b5496cd9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>747d43fb-db92-44e9-a428-88159d9b8ba6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>d7cb50d0-5657-4159-974d-e1599246a6f9</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>bbfc1dd0-5dec-4483-8319-1249c7460664</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

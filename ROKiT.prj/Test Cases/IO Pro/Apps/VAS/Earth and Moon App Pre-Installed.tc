@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Earth and Moon App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4a54e52-e0a4-42f2-a4fa-fc4fdcad93b3</testCaseGuid>
+   <variable>
+      <defaultValue>'com.afkettler.earth'</defaultValue>
+      <description></description>
+      <id>4293ce76-fa9c-4f97-b666-6019735f4124</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.LauncherActivity'</defaultValue>
+      <description></description>
+      <id>5879f9b9-15cd-48ba-a0e9-762458bcf81e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>b56a9893-7598-4a21-aaed-471faabc5be4</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Camera Photo and Video</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4ed3acd-abd1-4a40-a1bc-870ba219f1a0</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.camera'</defaultValue>
+      <description></description>
+      <id>625ec993-e678-4cf6-9b28-0fe0b18268f3</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>53609230-2059-4d64-89fb-a141f771e313</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d85ad456-af28-40a3-965a-3b39eb965d02</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>YouTube App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5555dff1-1c2c-427d-bdf9-cb12707a8a8f</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.youtube'</defaultValue>
+      <description></description>
+      <id>f1ebce1b-3972-4f0d-ad7e-56a7013911c2</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.HomeActivity'</defaultValue>
+      <description></description>
+      <id>df55135f-232e-4680-b98a-a516a520859b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>4ffea078-1363-4963-abda-d5ed888633d0</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

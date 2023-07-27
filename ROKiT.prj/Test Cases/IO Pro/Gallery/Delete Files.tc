@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Files</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43ff3a72-f3a9-45a6-a7e7-b172c783a880</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.gallery'</defaultValue>
+      <description></description>
+      <id>989da0fa-8de0-4602-85d9-512b3fce76f5</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.cooliris.media.Gallery'</defaultValue>
+      <description></description>
+      <id>8578c770-5335-4a98-9da5-d79ab39b2411</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>93157519-0589-45f3-aaac-cef7ab49edf3</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

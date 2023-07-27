@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Default Alarm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0e4b533-e412-4903-8a18-9175b0d2f8d4</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.deskclock'</defaultValue>
+      <description></description>
+      <id>292e075b-08ae-4c95-a9d8-18d77948ff33</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.DeskClock'</defaultValue>
+      <description></description>
+      <id>abbc5739-1045-4967-903b-2324a01f50be</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>1638ce0c-96bc-4e95-9179-7a2e1d788589</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

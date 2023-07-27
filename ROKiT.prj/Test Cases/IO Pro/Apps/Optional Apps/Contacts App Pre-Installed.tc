@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Contacts App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23e5d8a8-8661-4b14-8467-1ee24b060db5</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.contacts'</defaultValue>
+      <description></description>
+      <id>f8c2ba55-c4a1-4b50-b1a4-ef67f2148c7a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.activities.ContactSelectionActivity'</defaultValue>
+      <description></description>
+      <id>a43d3805-2ad6-4a94-b1db-627d90c33419</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>7df8e74a-01b5-4395-be23-b42db1cb873c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

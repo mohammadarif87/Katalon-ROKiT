@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile Data Enable-Disable from Quick Settings (Both SIM - SIM 1)</name>
+   <tag></tag>
+   <comment>Verify it says 4G or H+ then Disable Mobile Data
+Enable Mobile Data</comment>
+   <testCaseGuid>2f1baa1c-beca-4cf8-9760-fe7f9c01b572</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>521a82c9-1d2d-4d03-acc1-676529acfd8d</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>bffe43e2-0ee8-4a67-91f6-8a950ac8ced4</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>3b511a7b-374f-49ac-a70f-7a028fb51a55</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CS Fallback Incoming Call (SIM 1) on IO Pro</name>
+   <tag></tag>
+   <comment>Run in parallel execution with Place Call CS Fallback (SIM 1 O2-UK) using IO 3D
+Answer Call</comment>
+   <testCaseGuid>faa1b3f4-582d-45d8-b350-48c826dfa19c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>10bbd36e-c536-4505-bbbb-844567bbdde5</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>a4b034be-43bf-418e-905a-cfbdaa5a697e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('platformName') : 'Android', ('udid') : 'IOPRO0123456789A']</defaultValue>
+      <description></description>
+      <id>c59da6bf-7e58-44e3-9cfa-5464ef25d73c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

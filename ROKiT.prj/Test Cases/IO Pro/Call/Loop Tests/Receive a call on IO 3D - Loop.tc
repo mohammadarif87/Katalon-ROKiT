@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Receive a call on IO 3D - Loop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bb2c929-0182-443c-990f-b0f895e7461e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>d487138a-0dba-44d6-9453-1d3d7db7562a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>427554c2-3a38-433f-9367-b9193e0e36b1</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>3fb207ba-d80d-4764-a19e-1bd185a17fda</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

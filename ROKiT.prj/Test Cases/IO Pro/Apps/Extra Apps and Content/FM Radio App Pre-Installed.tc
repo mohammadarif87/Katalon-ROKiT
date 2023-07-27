@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FM Radio App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa31ed2f-c382-40bc-950a-03e4cb61ac17</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.fmradio'</defaultValue>
+      <description></description>
+      <id>52d40de7-4d6f-463e-8cf5-9c333914c27b</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.FmMainActivity'</defaultValue>
+      <description></description>
+      <id>1e61fc2a-e211-419e-ab0f-5ef42be47cae</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>63c264e5-2f52-40f7-aca2-39f3ce29d103</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

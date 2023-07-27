@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Internet App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edcfbdc8-87bd-4362-860c-3fb43ab65b0c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.libertyvaults.rokit'</defaultValue>
+      <description></description>
+      <id>6e8817ca-e24c-4f24-a2f5-b16196146abf</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>e037aee4-cff7-48db-9a47-2be3e551f8f9</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>ce0e2a36-e4a5-4c10-a59b-baccf085e24e</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

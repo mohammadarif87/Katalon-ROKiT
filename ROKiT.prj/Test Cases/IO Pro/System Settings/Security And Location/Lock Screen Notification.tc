@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lock Screen Notification</name>
+   <tag></tag>
+   <comment>Set to Show All Notifications on Lock Screen
+View notification of SMS on Lock Screen</comment>
+   <testCaseGuid>3d1b9120-2a3b-4fd0-9853-f089e6c53fef</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>552ce616-b731-4d13-8423-c77a318b5522</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>3006b54f-9363-46ff-b18d-1269a64a80a0</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>5e30818f-0be3-4788-aa3f-24e1b8ff87e3</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

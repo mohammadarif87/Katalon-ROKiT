@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Photos App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a83859e1-1984-41e4-a610-e8df0fab8768</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.photos'</defaultValue>
+      <description></description>
+      <id>31f06707-ab0f-44a6-a496-c17e396eb7f9</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>0ce4fbf5-a3ac-41d1-82b8-af264af83520</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>0b6e7075-eaf0-4984-8e5f-37e872a9ba6c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,154 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import testlink.api.java.client.TestLinkAPIResults as TestLinkAPIResults
+
+WebUI.callTestCase(findTestCase('IO Pro/PRECONDITIONS/Turn off Wi-Fi'), [('appPackage') : 'com.android.settings', ('appActivity') : '.Settings'
+        , ('deviceInformation') : [('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('deviceId') : 'IOPRO0123456789A'
+            , ('platformName') : 'Android']], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('IO Pro/PRECONDITIONS/Turn on Mobile Data SIM 1 (O2 - UK)(TMO-US)'), [('appPackage') : 'com.android.settings'
+        , ('appActivity') : '.Settings', ('deviceInformation') : [('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)'
+            , ('deviceId') : 'IOPRO0123456789A', ('platformName') : 'Android']], FailureHandling.STOP_ON_FAILURE)
+
+CustomKeywords.'com.mobile.keywords.ApplicationBehavior.startInstalledApplication'('Android', deviceInformation, appPackage, 
+    appActivity)
+
+Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.TextView0 - Welcome to Chrome'), 0)
+
+'Chrome Logo'
+Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.ImageView0'), 0)
+
+Mobile.verifyElementVisible(findTestObject('Apps/Mandatory Apps/Chrome App Pre-Installed/android.widget.TextView0 - By using Chrome you agree to the Google Terms of Service and the Google Chrome and Chrome OS Additional Terms of Service.'), 
+    3)
+
+Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.CheckBox0 - Help make Chrome better by sending usage statistics and crash reports to Google.'), 
+    0)
+
+Mobile.tap(findTestObject('Apps/Chrome/android.widget.CheckBox0 - Help make Chrome better by sending usage statistics and crash reports to Google.'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.Button0 - Accept  continue'), 0)
+
+Mobile.tap(findTestObject('Apps/Chrome/android.widget.Button0 - Accept  continue'), 0)
+
+not_run: Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.TextView0 - Turn on sync'), 0)
+
+not_run: Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.TextView1 - Sync your passwords history and more on all devices'), 
+    0)
+
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+userName = System.getProperty('user.name')
+
+if (userName == 'Aiden') {
+    Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/android.widget.Button0 - No thanks'), 0)
+
+    Mobile.tap(findTestObject('Browser/Accept Cookies/android.widget.Button0 - No thanks'), 0)
+
+    Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+    'Google Logo'
+    Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.FrameLayout8'), 0)
+
+    Mobile.tap(findTestObject('Browser/Open Web Page/android.widget.EditText0 - Search or type web address'), 0)
+
+    Mobile.setText(findTestObject('Browser/Open Web Page/android.widget.EditText0 - Search or type web address (1)'), 'ikea.com/us/en', 
+        0)
+
+    'Enter on Keyboard'
+    Mobile.tapAtPosition(1000, 1940)
+
+    Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+    Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.widget.EditText0 - ikea.comusen'), 
+        3)
+
+    Mobile.waitForElementPresent(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.view.View0 - The IKEA website uses cookies which make the site simpler to use.'), 
+        0)
+
+    Mobile.waitForElementPresent(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.view.View0 - Find out more about browser cookies.'), 
+        0)
+
+    Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.widget.Button0 - OK'), 
+        0)
+
+    Mobile.tap(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.widget.Button0 - OK'), 0)
+
+    not_run: Mobile.verifyElementNotVisible(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.view.View0 - The IKEA website uses cookies which make the site simpler to use.'), 
+        3)
+
+    not_run: Mobile.verifyElementNotVisible(findTestObject('Browser/Accept Cookies/Accept Cookies - US/android.view.View0 - Find out more about browser cookies.'), 
+        0)
+} else {
+    Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.Button0 - No thanks'), 5)
+
+    Mobile.tap(findTestObject('Apps/Chrome/android.widget.Button0 - No thanks'), 0)
+
+    Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+    'Google Logo'
+    Mobile.verifyElementVisible(findTestObject('Apps/Chrome/android.widget.FrameLayout8'), 5)
+
+    Mobile.tap(findTestObject('Browser/Open Web Page/android.widget.EditText0 - Search or type web address'), 0)
+
+    Mobile.setText(findTestObject('Browser/Open Web Page/android.widget.EditText0 - Search or type web address (1)'), 'bbc.co.uk', 
+        0)
+
+    'Enter on Keyboard'
+    Mobile.tapAtPosition(1000, 1940)
+
+    Mobile.delay(20, FailureHandling.STOP_ON_FAILURE)
+
+    not_run: if (Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/android.widget.EditText0 - httpswww.bbc.co.uk'), 
+        5, FailureHandling.OPTIONAL)) {
+        Mobile.waitForElementPresent(findTestObject('Browser/Accept Cookies/android.view.View5 - Weve updated our Privacy and Cookies Policy'), 
+            0)
+
+        Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/android.widget.Button0 - OK'), 0)
+
+        Mobile.tap(findTestObject('Browser/Accept Cookies/android.widget.Button0 - OK'), 0)
+    }
+    
+    not_run: if (Mobile.verifyElementVisible(findTestObject('Browser/Open Web Page/android.widget.EditText0 - bbc.co.uk'), 
+        5, FailureHandling.OPTIONAL)) {
+        Mobile.waitForElementPresent(findTestObject('Browser/Accept Cookies/android.view.View5 - Weve updated our Privacy and Cookies Policy'), 
+            0)
+
+        Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/android.widget.Button0 - OK (1)'), 0)
+
+        Mobile.tap(findTestObject('Browser/Accept Cookies/android.widget.Button0 - OK (1)'), 0)
+    }
+    
+    Mobile.waitForElementPresent(findTestObject('Browser/Accept Cookies/android.view.View5 - Let us know you agree to cookies'), 
+        0)
+
+    Mobile.verifyElementVisible(findTestObject('Browser/Accept Cookies/android.widget.Button0 - Yes I agree (1)'), 0)
+
+    Mobile.tap(findTestObject('Browser/Accept Cookies/android.widget.Button0 - Yes I agree (1)'), 0)
+
+    Mobile.verifyElementNotVisible(findTestObject('Browser/Accept Cookies/android.view.View5 - Weve updated our Privacy and Cookies Policy'), 
+        0)
+
+    Mobile.verifyElementNotVisible(findTestObject('Browser/Accept Cookies/android.view.View5 - Let us know you agree to cookies'), 
+        0)
+}
+
+Mobile.closeApplication()
+
+not_run: CustomKeywords.'com.kms.katalon.keyword.testlink.TestlinkKeywords.updateResults'('Mobile Data Connection (Both SIM)', 
+    '', TestLinkAPIResults.TEST_PASSED)
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Play Movies and TV App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9536114-cc3c-4668-9d7f-d2391038a54b</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.videos'</defaultValue>
+      <description></description>
+      <id>70dae440-2313-47cf-9da5-26bb491d493d</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.activity.LauncherActivity'</defaultValue>
+      <description></description>
+      <id>d1ab0646-1618-4b6d-a730-76f2bcdbf1cf</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d751ffbc-5f1f-4c13-aae3-1ece87560f4c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

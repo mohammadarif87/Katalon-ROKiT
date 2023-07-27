@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rear 3D Camera Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afd00dbc-edd6-44c1-b300-48274777a30a</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.camera3d.rokit'</defaultValue>
+      <description></description>
+      <id>bb70614a-5951-431f-9b0a-948932461bed</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.mobile.depthy3d.ImageListActivity'</defaultValue>
+      <description></description>
+      <id>83e34016-2720-4d46-abe7-c5b02a0ccf48</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>11439c4c-d2fa-416c-bb24-2d1a5d8f481a</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

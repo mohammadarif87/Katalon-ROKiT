@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manage 3D Camera Phone Call Permission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f3a724b-2c01-47ba-8d8d-ee84ab1d7836</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.camera3d.rokit'</defaultValue>
+      <description></description>
+      <id>6acc3fff-8f5c-46b1-9ee8-363f4b100cd9</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.mobile.depthy3d.ImageListActivity'</defaultValue>
+      <description></description>
+      <id>055f8fea-948f-485a-9b4c-3f42533ec51b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>118f6b28-f15b-4804-a7cf-bdc9d64e5921</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

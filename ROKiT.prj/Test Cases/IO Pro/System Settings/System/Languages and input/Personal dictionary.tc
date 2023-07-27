@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Personal dictionary</name>
+   <tag></tag>
+   <comment>Check the word on Gboard</comment>
+   <testCaseGuid>92b8aced-7e4f-470f-93f5-898b14ef86d9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>7fa6ff3a-7f2b-4752-a4b5-d9142e032bf1</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>c7ea5088-fbe3-41b0-a427-a01ad0d089cf</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>7e47d96b-f758-4553-b12a-7a61c45b5541</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.messaging'</defaultValue>
+      <description></description>
+      <id>6516317b-8b5d-48fe-b32f-5e75ed38f799</id>
+      <masked>false</masked>
+      <name>appPackage2</name>
+   </variable>
+   <variable>
+      <defaultValue>'.home.HomeActivity'</defaultValue>
+      <description></description>
+      <id>b25fbd32-b8bd-45df-bbee-f07ec9662eda</id>
+      <masked>false</masked>
+      <name>appActivity2</name>
+   </variable>
+</TestCaseEntity>

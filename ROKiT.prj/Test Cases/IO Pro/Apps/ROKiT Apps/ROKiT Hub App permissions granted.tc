@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ROKiT Hub App permissions granted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17d39b8d-f17d-4838-886d-88a05cbfd378</testCaseGuid>
+   <variable>
+      <defaultValue>'com.missioncontrol.rokaccount'</defaultValue>
+      <description></description>
+      <id>b276791b-acef-4728-b3f5-a072da5db307</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Activity.PermissionActivity'</defaultValue>
+      <description></description>
+      <id>a95ed0ce-74a2-4bb7-bb6d-31212e266b11</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>4cb7677e-ba9a-4c82-8f82-a6d3d569571c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

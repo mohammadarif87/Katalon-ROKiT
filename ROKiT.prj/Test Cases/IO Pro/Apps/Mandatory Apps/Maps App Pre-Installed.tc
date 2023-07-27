@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Maps App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fde370b-d45f-4400-8395-16ced4729994</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.maps'</defaultValue>
+      <description></description>
+      <id>8293a152-109c-424e-856c-d8e596f86ca6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.maps.MapsActivity'</defaultValue>
+      <description></description>
+      <id>a7092eff-54d0-49c9-883e-90ab44407188</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>411c1374-166a-4256-b7ab-0b37cdbad305</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

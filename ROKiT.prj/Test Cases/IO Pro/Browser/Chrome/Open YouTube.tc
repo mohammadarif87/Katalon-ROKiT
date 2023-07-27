@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open YouTube</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cff56449-fd23-4537-af64-3d5b0fb8b908</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.chrome'</defaultValue>
+      <description></description>
+      <id>fd7a5970-6468-4c0d-b269-a9e6f404d816</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>69c18ff2-2098-4c8e-82ab-d553f1275341</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>7f6f32aa-cac9-4787-bba4-5359d8d6b98c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

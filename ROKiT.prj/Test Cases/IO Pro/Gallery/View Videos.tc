@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Videos</name>
+   <tag></tag>
+   <comment>Camera app opens</comment>
+   <testCaseGuid>4cd63d88-6d15-4a1c-bc6e-72d5d7f66d80</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.gallery'</defaultValue>
+      <description></description>
+      <id>1000dadb-6f86-4bd3-90ec-0b5131d11593</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.cooliris.media.Gallery'</defaultValue>
+      <description></description>
+      <id>2309c806-797c-4c94-9052-048170b36151</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>cd78fe05-fb32-4628-941d-0560738cb289</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

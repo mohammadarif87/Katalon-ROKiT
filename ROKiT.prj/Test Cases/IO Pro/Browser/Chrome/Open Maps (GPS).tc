@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open Maps (GPS)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>498a7c9d-a785-452a-ae54-40f8d112409c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.chrome'</defaultValue>
+      <description></description>
+      <id>93c46642-f8bb-4888-b915-d2b8703913bf</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>580f25cc-0ada-48ba-8f3b-344d632f5dbe</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>4fa2ee62-4436-41bf-aec2-4ef652a41a6b</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Turn OFF Enhanced 4G LTE Mode (SIM1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f74c7551-6ab0-444f-96f8-f87a87b5ebed</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>581f2dd0-b9ad-42eb-a0c5-e8e08d790c10</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>756478ba-fdc7-4c86-a911-e1efbc8c30ae</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>e9a3ae1d-772e-4dd2-b7e0-7b4fdbd48dd0</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

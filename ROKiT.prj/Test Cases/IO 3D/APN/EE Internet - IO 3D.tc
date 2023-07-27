@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EE Internet - IO 3D</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1abe7ec-c20c-4e2b-b092-d087614d5520</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>3ec70a56-9c9b-4517-b677-a05872b53ffa</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>d2f4dfc9-1fae-4f34-aeab-3ff37a3a6810</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>9b3bb148-f047-4604-b2d6-b1d29d3d224f</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(2, 390)</defaultValue>
+      <description></description>
+      <id>f7213da7-59ac-4114-ae3f-46287cee7190</id>
+      <masked>false</masked>
+      <name>carrier_EEInternet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(5, 390)</defaultValue>
+      <description></description>
+      <id>7ed54537-da4b-4f2f-8853-a8888c0410f3</id>
+      <masked>false</masked>
+      <name>apn_everywhere</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(11, 390)</defaultValue>
+      <description></description>
+      <id>b7bdcd3e-3f68-4648-97a2-ec7e9fb6f41b</id>
+      <masked>false</masked>
+      <name>proxy</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(12, 390)</defaultValue>
+      <description></description>
+      <id>71ec3ef5-5ca4-4a9a-a3dd-1dc2034c9b6a</id>
+      <masked>false</masked>
+      <name>port</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(9, 390)</defaultValue>
+      <description></description>
+      <id>4d433d95-9850-472a-94f4-5677a5dd5b5c</id>
+      <masked>false</masked>
+      <name>user_eesecure</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(10, 390)</defaultValue>
+      <description></description>
+      <id>b7eaae8e-8516-44b1-86bb-988445c30042</id>
+      <masked>false</masked>
+      <name>password_secure</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(26, 390)</defaultValue>
+      <description></description>
+      <id>56248560-26bf-43a6-b16d-17487b5a9940</id>
+      <masked>false</masked>
+      <name>server</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(13, 390)</defaultValue>
+      <description></description>
+      <id>7cf38a79-a626-4003-a0ea-b12a57c747c9</id>
+      <masked>false</masked>
+      <name>mmsc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(14, 390)</defaultValue>
+      <description></description>
+      <id>9cdb8a67-a38e-424e-ac23-6689430fcd20</id>
+      <masked>false</masked>
+      <name>mmsproxy</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(15, 390)</defaultValue>
+      <description></description>
+      <id>cb072c52-e391-44cb-8fc0-53107d92cd14</id>
+      <masked>false</masked>
+      <name>mmsport</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(3, 390)</defaultValue>
+      <description></description>
+      <id>af956ad1-f2ed-41bd-afd6-0064d565c407</id>
+      <masked>false</masked>
+      <name>mcc_234</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(4, 390)</defaultValue>
+      <description></description>
+      <id>60d5a94a-4155-400c-9073-c6248af7a68f</id>
+      <masked>false</masked>
+      <name>mnc_30</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(17, 390)</defaultValue>
+      <description></description>
+      <id>bb661cd2-dbd7-4165-addc-3f2c448f6fcc</id>
+      <masked>false</masked>
+      <name>authtype</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(6, 390)</defaultValue>
+      <description></description>
+      <id>e94f811f-01d1-44ba-867b-bc001c58d849</id>
+      <masked>false</masked>
+      <name>type_defaultsupl</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(7, 390)</defaultValue>
+      <description></description>
+      <id>9fab3e9b-4816-411c-83c3-af03afc7d1f8</id>
+      <masked>false</masked>
+      <name>protocol_IPV4V6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(8, 390)</defaultValue>
+      <description></description>
+      <id>e1e13bbb-dfa9-4cd6-9a0b-b8997af8fb9f</id>
+      <masked>false</masked>
+      <name>roamingprotocol</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(23, 390)</defaultValue>
+      <description></description>
+      <id>fafd9ffd-3ea1-4b39-a511-ad930d684831</id>
+      <masked>false</masked>
+      <name>carrierenabled</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(28, 390)</defaultValue>
+      <description></description>
+      <id>71bad943-4840-461f-8266-4521c284d90b</id>
+      <masked>false</masked>
+      <name>bearer</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(25, 390)</defaultValue>
+      <description></description>
+      <id>f634541a-7e30-4adb-bcda-ba3c6b7dcb55</id>
+      <masked>false</masked>
+      <name>mvnotype</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 15112019').getValue(24, 390)</defaultValue>
+      <description></description>
+      <id>00b5e626-3143-4c38-a85e-bc2fdf80a323</id>
+      <masked>false</masked>
+      <name>mvnovalue</name>
+   </variable>
+</TestCaseEntity>

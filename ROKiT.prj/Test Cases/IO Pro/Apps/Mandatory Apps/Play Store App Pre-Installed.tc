@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Play Store App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2066c549-5e8c-4f8f-a492-93333961995a</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.vending'</defaultValue>
+      <description></description>
+      <id>d1305459-f617-4a28-bd38-cb35a920f73e</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.finsky.activities.MainActivity'</defaultValue>
+      <description></description>
+      <id>6979223a-031f-4a08-88fc-190cdb0d182a</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>b6fab412-1e06-401d-bb8c-a143fe8b746b</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

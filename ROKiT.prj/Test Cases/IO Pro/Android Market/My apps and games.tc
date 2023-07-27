@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>My apps and games</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a2427b0-6a8e-4f34-b25c-a7dde06132d8</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.vending'</defaultValue>
+      <description></description>
+      <id>7b1a7505-f74f-44b8-ba72-4df3eda7f541</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.AssetBrowserActivity'</defaultValue>
+      <description></description>
+      <id>d341be3d-6642-4b70-972b-c993a7f178a2</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>fba06e2c-c6f4-4ed7-9cad-8a5fe3d3de59</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

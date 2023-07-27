@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wi-Fi to Mobile Data (Both SIM)</name>
+   <tag></tag>
+   <comment>This will turn off Wi-Fi
+Same test with SIM 2 - EE
+This will turn off Wi-Fi</comment>
+   <testCaseGuid>d47c7034-c237-4c40-914a-694fd22ca3fc</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>2c3b9796-af71-45d5-9cf2-6e4e2a9ed7bc</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>1b74c573-691e-40a4-9d2c-0213f51a8ff8</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>49c1d5a0-a655-4d74-b45a-5d8b071d6688</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

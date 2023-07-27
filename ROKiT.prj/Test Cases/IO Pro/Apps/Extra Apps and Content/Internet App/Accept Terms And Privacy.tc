@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Accept Terms And Privacy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d85eba6-63cf-4afc-86b2-6427ea276493</testCaseGuid>
+   <variable>
+      <defaultValue>'com.libertyvaults.rokit'</defaultValue>
+      <description></description>
+      <id>fd4fe48b-7f93-437c-a6aa-449fdb6f7ad7</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.apps.chrome.Main'</defaultValue>
+      <description></description>
+      <id>4860d772-7916-40b0-b364-9e033e64bebe</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>ebbe8231-c39f-4f3d-93e8-b719941747d0</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

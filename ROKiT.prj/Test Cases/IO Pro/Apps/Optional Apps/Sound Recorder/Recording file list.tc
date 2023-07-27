@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Recording file list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81d635aa-dc79-47d1-99f1-2bc6c89d416c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.soundrecorder'</defaultValue>
+      <description></description>
+      <id>37ccc051-6c6e-4ac9-9b8e-fb4e34431b3c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.SoundRecorder'</defaultValue>
+      <description></description>
+      <id>c6d289c1-614a-4b03-94c0-2503912136a4</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>29929d57-e3ed-4459-8a14-ef48fec02628</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

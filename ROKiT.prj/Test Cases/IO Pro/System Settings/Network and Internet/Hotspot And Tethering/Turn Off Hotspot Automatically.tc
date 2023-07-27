@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Turn Off Hotspot Automatically</name>
+   <tag></tag>
+   <comment>Hotspot Name
+Password
+Wi-Fi Hotspot turn off in 10 mins after turn on if no device connected
+While loop will check every 30 seconds if Hotspot has automatically turned off</comment>
+   <testCaseGuid>38b5dc66-66b9-4779-a59b-df026d34ba7e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>adbfdfb3-146d-475a-9d23-5f3b8db182a7</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>22fbf2bb-778d-4de3-8b56-3f763f6954c3</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d1a5bb76-6138-49d8-a736-8ef9797b5b37</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

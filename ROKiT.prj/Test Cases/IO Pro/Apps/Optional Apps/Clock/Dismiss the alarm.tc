@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dismiss the alarm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b354d946-8bfb-4c7e-b9e0-a957fe7a591e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.deskclock'</defaultValue>
+      <description></description>
+      <id>2e2e5751-0098-4b97-bba5-d2d7e0d4b2a5</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.DeskClock'</defaultValue>
+      <description></description>
+      <id>7b33393a-aae6-4fe5-8afd-971c91adaf28</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>cacbcb0f-fb57-49df-868a-4464a1dc8608</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

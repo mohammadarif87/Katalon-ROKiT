@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>About phone - IP Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4c0c10a-4b2b-4471-85c3-b3d9556b3797</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>51a751d5-f868-44cd-85d4-2e752a54c486</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>ccaf50d0-2610-4170-b1e8-165998f51d13</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO3D105120', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>82d9984e-61fb-42b6-bca2-d1b80573e210</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

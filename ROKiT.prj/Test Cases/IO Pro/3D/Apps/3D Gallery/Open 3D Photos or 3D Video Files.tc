@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open 3D Photos or 3D Video Files</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d358f935-888c-4080-a8c1-1c07d47c1275</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.documentsui'</defaultValue>
+      <description></description>
+      <id>6572899c-1670-40d2-a361-39678bb76bcc</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.LauncherActivity'</defaultValue>
+      <description></description>
+      <id>5343253a-d1af-41fa-80a2-cf1c31e4abad</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>9b36c567-abda-44b8-b55e-572b38d4babf</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

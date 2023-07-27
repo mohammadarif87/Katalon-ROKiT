@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OBSOLETE_ROKFLiX App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e418ded3-71a3-4520-b8a5-50bbe15eef8d</testCaseGuid>
+   <variable>
+      <defaultValue>'com.launchcontrol.rokflix3d'</defaultValue>
+      <description></description>
+      <id>0279ccb4-fca2-424b-a2a0-8e9adde82602</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.launchcontrol.rokflix3d.Activities.SplashActivity'</defaultValue>
+      <description></description>
+      <id>cc7b45ee-1163-4da3-b117-b240b2bf391d</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>e09f14bc-f2ee-4df2-bc54-bf70499fdfe7</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

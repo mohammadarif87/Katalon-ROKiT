@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reject Call with SMS (SIM 1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3ffbde3-c881-4b89-a4cf-cc6f56e1595b</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>a6231f94-e975-491c-9a01-910f7d73005b</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>17b76f5f-1638-45bb-acdb-25abe7c8c922</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('platformName') : 'Android', ('udid') : 'IOPRO0123456789A']</defaultValue>
+      <description></description>
+      <id>014dca50-468d-49d0-b953-cb3740df5b62</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

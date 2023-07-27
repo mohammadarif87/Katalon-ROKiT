@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Call (SIM 1 O2-UK) 30 mins</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b376e895-d72d-4736-b974-935e742efe6e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>a01dd954-9d18-47ac-b7ed-7c5bde11f3d5</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>7d170513-8d02-4def-881e-f8ab4176f05e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO01234589A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>df821b6c-30ae-4c38-8d53-92b7804937b9</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manage 3DFV App Permissions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f430004-8fd6-4931-9dcd-971d1a9fe19f</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.service3d'</defaultValue>
+      <description></description>
+      <id>2eeec9c7-8781-41e5-88ed-14dc015289ae</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.service3d.SplashActivity'</defaultValue>
+      <description></description>
+      <id>43ebffe4-fd92-4256-b84c-e0e39a3236a7</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>774710c9-9ff0-422d-b6da-37d55576733c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

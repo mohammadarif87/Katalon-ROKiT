@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Snooze Alarm 1 minute</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffd26261-ae0b-47d3-b7e0-df0d449d3f47</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.deskclock'</defaultValue>
+      <description></description>
+      <id>0d48ad5a-b55f-4008-8034-71fbf7c78ea2</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.DeskClock'</defaultValue>
+      <description></description>
+      <id>212f54cb-88fe-4218-8733-37956d8709d2</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>6ce0169e-7b12-4970-ab54-3819984d7be6</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

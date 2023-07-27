@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3DFV version</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7328b38-34d9-4ff2-aa91-94858c8c3224</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.service3d'</defaultValue>
+      <description></description>
+      <id>e84a3d70-2921-4a0d-bbb2-60963620cc7e</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.service3d.SplashActivity'</defaultValue>
+      <description></description>
+      <id>c541bfb0-a292-4e1a-a3e7-cd28dd3bd3a4</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>45200562-dd61-4510-a61a-175c2115e324</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'3.10.20191226'</defaultValue>
+      <description></description>
+      <id>d7a8a64d-cfec-4f3c-b42a-3a4f93bd6b72</id>
+      <masked>false</masked>
+      <name>version</name>
+   </variable>
+</TestCaseEntity>

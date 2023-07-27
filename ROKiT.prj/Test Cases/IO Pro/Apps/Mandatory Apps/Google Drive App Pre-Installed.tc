@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Google Drive App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb22fe35-9fc5-4d1e-b510-918cca35ebdf</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.docs'</defaultValue>
+      <description></description>
+      <id>3b618cac-e9f6-4793-874f-cd9030a37628</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.drive.startup.StartupActivity'</defaultValue>
+      <description></description>
+      <id>88fa30d0-a1ef-46ae-b58d-3d25246e6aff</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>7f9d51e2-0034-4285-a20d-463fe7f374a2</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

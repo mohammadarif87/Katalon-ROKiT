@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Camera Video via Bluetooth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>626e33e7-7e65-4d4d-8d4a-42ea4b29f22b</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.gallery3d'</defaultValue>
+      <description></description>
+      <id>516bf667-2963-4c6c-ab4d-f38183ee4da4</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.cooliris.media.Gallery'</defaultValue>
+      <description></description>
+      <id>58d4d8a2-b17b-4c94-b381-51cee7ce9128</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>eb4ae743-96c3-4fac-ac62-a699dcb30a58</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ROKiT Hub App - Sign Up process UI01 - Personal info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b54b9b0-5ddd-4c3b-9857-94f8ace78a44</testCaseGuid>
+   <variable>
+      <defaultValue>'com.missioncontrol.rokaccount'</defaultValue>
+      <description></description>
+      <id>44d8e64f-270b-42d1-8c89-5872b72caaf1</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Activity.PermissionActivity'</defaultValue>
+      <description></description>
+      <id>7766c705-f277-4d53-a481-41d5dac92f71</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>cf4bebd5-3d09-4656-8f93-3335ed630658</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

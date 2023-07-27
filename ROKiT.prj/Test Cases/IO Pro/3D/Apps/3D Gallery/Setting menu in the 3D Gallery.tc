@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Setting menu in the 3D Gallery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35c6dfda-02aa-4835-ba2a-f2d6a3fbfd35</testCaseGuid>
+   <variable>
+      <defaultValue>'com.rokit.media3d'</defaultValue>
+      <description></description>
+      <id>43f5c38d-22f4-4749-9476-057ed1d1e319</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.media3d.service.navigation.SplashActivity'</defaultValue>
+      <description></description>
+      <id>0b7cd7c2-a1e9-4f5e-b83c-30ddd2c0379b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d62aa8c8-d1f1-4c86-959f-af0cd319b983</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'2.0.2.9'</defaultValue>
+      <description></description>
+      <id>58189727-063d-4989-a2c5-602d9260f9fa</id>
+      <masked>false</masked>
+      <name>version</name>
+   </variable>
+</TestCaseEntity>

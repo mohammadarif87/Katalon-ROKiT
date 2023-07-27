@@ -1,0 +1,9 @@
+diff a/ROKiT.prj/Scripts/IO Pro/About Phone/Emergency information (Call via Lockscreen)/Script1599492489847.groovy b/ROKiT.prj/Scripts/IO Pro/About Phone/Emergency information (Call via Lockscreen)/Script1599492489847.groovy	(rejected hunks)
+@@ -177,6 +177,7 @@
+  
+  Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+  
+++<<<<<<< Updated upstream
+ +if (Mobile.verifyElementVisible(findTestObject('System Settings/System/About Phone/Emergency information (Call via Lockscreen)/android.widget.TextView4 - CONTACTS'), 
+ +    0, FailureHandling.OPTIONAL)) {
+ +    Mobile.verifyElementVisible(findTestObject('System Settings/System/About Phone/Emergency information (Call via Lockscreen)/android.widget.TextView4 - CONTACTS'), 

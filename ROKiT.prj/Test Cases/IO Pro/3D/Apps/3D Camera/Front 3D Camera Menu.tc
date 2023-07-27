@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Front 3D Camera Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68abae67-f403-4fad-8f61-30a1e459b309</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.camera3d.rokit'</defaultValue>
+      <description></description>
+      <id>8d7f8500-565c-4278-ae2c-ea79b4e88d3a</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.mobile.depthy3d.ImageListActivity'</defaultValue>
+      <description></description>
+      <id>72b25e2e-a3e5-495e-aec9-5f6146721bf9</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>e6ca7bdb-d242-4621-a714-ce8568f48fa8</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

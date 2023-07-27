@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EE MMS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ebe0aef-8025-49db-8ebd-d4b3b42307c7</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>85a948de-ab72-44aa-af29-7dadd82243fe</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>551ba07c-6e99-48b0-96c5-d409fc45fcbf</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>aeaaca68-e191-450f-bbe3-450ff588da50</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(2, 403)</defaultValue>
+      <description></description>
+      <id>fe66b4a8-4c0b-4f13-9c8c-0da0e74c5528</id>
+      <masked>false</masked>
+      <name>carrier_EEMMS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(5, 403)</defaultValue>
+      <description></description>
+      <id>7d1b0cea-05d6-41f9-b496-ceb3210b7b9c</id>
+      <masked>false</masked>
+      <name>apn_eezone</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(11, 403)</defaultValue>
+      <description></description>
+      <id>3c990bbc-c1ff-4e3a-8f5e-e74958b23e9f</id>
+      <masked>false</masked>
+      <name>proxy</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(12, 403)</defaultValue>
+      <description></description>
+      <id>d9b340d1-273d-4f8a-898b-45057ed169f3</id>
+      <masked>false</masked>
+      <name>port</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(9, 403)</defaultValue>
+      <description></description>
+      <id>0a53a692-eef9-43ad-9696-6892a3e9c001</id>
+      <masked>false</masked>
+      <name>user_eesecure</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(10, 403)</defaultValue>
+      <description></description>
+      <id>4bb39603-6559-423b-be90-8df52811f8e7</id>
+      <masked>false</masked>
+      <name>password_secure</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(26, 403)</defaultValue>
+      <description></description>
+      <id>a7e8d057-c771-4c6a-8f13-d0f560e89f97</id>
+      <masked>false</masked>
+      <name>server</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(13, 403)</defaultValue>
+      <description></description>
+      <id>2107c7dd-9af5-46c3-8f09-ad60531ebbe4</id>
+      <masked>false</masked>
+      <name>mmsc_httpmms</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(14, 403)</defaultValue>
+      <description></description>
+      <id>c21ddb88-9e34-4bfa-9a13-54bf44b6cbe9</id>
+      <masked>false</masked>
+      <name>mmsproxy_149254201135</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(15, 403)</defaultValue>
+      <description></description>
+      <id>91ff4f85-c0c2-45d1-a09f-69f8e1714f5e</id>
+      <masked>false</masked>
+      <name>mmsport_8080</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(3, 403)</defaultValue>
+      <description></description>
+      <id>325ed479-3fb1-4265-b87b-4001814c1bbc</id>
+      <masked>false</masked>
+      <name>mcc_234</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(4, 403)</defaultValue>
+      <description></description>
+      <id>97e63326-bfaa-4d97-8f7d-850dc6dbf423</id>
+      <masked>false</masked>
+      <name>mnc_30</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(17, 403)</defaultValue>
+      <description></description>
+      <id>b7598810-1a83-4a37-ab34-4ee13d3607b5</id>
+      <masked>false</masked>
+      <name>authtype</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(6, 403)</defaultValue>
+      <description></description>
+      <id>9c3615df-821d-4305-ac5b-6ff68e06c7f3</id>
+      <masked>false</masked>
+      <name>type_mms</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(7, 403)</defaultValue>
+      <description></description>
+      <id>6ed7de2e-603e-48d2-8317-077c12be550a</id>
+      <masked>false</masked>
+      <name>protocol_IPV4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(8, 403)</defaultValue>
+      <description></description>
+      <id>42824aa0-7ea5-455c-a47f-03a3f833e32f</id>
+      <masked>false</masked>
+      <name>roamingprotocol</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(23, 403)</defaultValue>
+      <description></description>
+      <id>12e434e6-77c0-4a54-a4b7-69bd093870f1</id>
+      <masked>false</masked>
+      <name>carrierenabled</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(28, 403)</defaultValue>
+      <description></description>
+      <id>5f2382bc-ea1c-42ca-a1ef-fb7fb341054f</id>
+      <masked>false</masked>
+      <name>bearer</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(25, 403)</defaultValue>
+      <description></description>
+      <id>0232afe1-ce5b-4a25-a36d-d0c37020352b</id>
+      <masked>false</masked>
+      <name>mvnotype</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('APN - 03032020').getValue(24, 403)</defaultValue>
+      <description></description>
+      <id>d7cb5acd-e37f-4c0a-9edd-5f762aac966f</id>
+      <masked>false</masked>
+      <name>mvnovalue</name>
+   </variable>
+</TestCaseEntity>

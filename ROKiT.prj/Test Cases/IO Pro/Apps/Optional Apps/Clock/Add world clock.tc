@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add world clock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98e82323-d86b-4a66-9d42-1a7eeff4a1bb</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.deskclock'</defaultValue>
+      <description></description>
+      <id>458fff69-130e-40d7-9ec0-abed9e530950</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.DeskClock'</defaultValue>
+      <description></description>
+      <id>7b20f80d-6e12-466d-a514-a81e284cbf98</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>3e4620eb-e69c-460f-a45c-e3097160f293</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

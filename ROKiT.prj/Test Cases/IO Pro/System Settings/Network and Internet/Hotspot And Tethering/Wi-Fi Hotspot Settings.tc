@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wi-Fi Hotspot Settings</name>
+   <tag></tag>
+   <comment>Hotspot Name
+Password
+Security
+Turn off Hotspot automatically
+AP Bands
+Maximum Connections
+Reset OOB</comment>
+   <testCaseGuid>80b7a8bd-7044-45b7-9718-e78a9fe82797</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>734a5cc6-d70a-4653-be00-b1587a53fd74</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>c26ffdc3-5530-4750-836e-426fa942840c</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>0e545b44-868a-4874-b691-62349fd25965</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

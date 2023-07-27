@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Call to DUT 1 (SIM 2 EE) using IO 3D (Reject SMS)</name>
+   <tag></tag>
+   <comment>Run in parallel execution with Reject Call with SMS (SIM 2)</comment>
+   <testCaseGuid>300d41ac-0eae-46f3-b885-91224380ae30</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>860ca238-894b-4898-aeb5-170224aa366c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>c264400e-341f-418a-b8b1-ab5ece2ce93b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>8832a9b5-1ddd-4d07-9311-fddf835dfd76</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

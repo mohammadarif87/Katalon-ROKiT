@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Bluetooth image to IO Pro</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37c988c0-83ee-4ad9-a8bf-13dfeb071edd</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.documentsui'</defaultValue>
+      <description></description>
+      <id>342e3e08-63de-4254-8fa1-722295819feb</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.LauncherActivity'</defaultValue>
+      <description></description>
+      <id>809ad651-04fd-4bd7-9191-e46e00fba869</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>8722f038-58cd-44ad-bd7b-bbbfe4756a5b</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

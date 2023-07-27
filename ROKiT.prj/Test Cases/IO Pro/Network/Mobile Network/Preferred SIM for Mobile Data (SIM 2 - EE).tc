@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Preferred SIM for Mobile Data (SIM 2 - EE)</name>
+   <tag></tag>
+   <comment>Check Mobile Data works with YouTube
+Check Mobile Data works with Browser</comment>
+   <testCaseGuid>041320ed-8961-4c19-a202-50781d6b6a57</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.youtube'</defaultValue>
+      <description></description>
+      <id>802a12ea-f42b-4723-9af2-23e56af0dd51</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.HomeActivity'</defaultValue>
+      <description></description>
+      <id>e1615e0b-339c-4fd2-8968-ea55a5dc2a6c</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>e0f15482-2ebc-42ac-b2bd-1721c3f8459c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

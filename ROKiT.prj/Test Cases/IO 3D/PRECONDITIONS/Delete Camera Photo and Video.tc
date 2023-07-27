@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Camera Photo and Video</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c80ad12d-4e12-4bbe-9e7b-2f224942d1c9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.mediatek.camera'</defaultValue>
+      <description></description>
+      <id>07dea2cb-80a5-4aac-add6-b5484304e372</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>7150ecd5-fc18-4e13-9871-8a073972bd95</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d22502a8-c612-4fc2-a9a9-2eebb9971710</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

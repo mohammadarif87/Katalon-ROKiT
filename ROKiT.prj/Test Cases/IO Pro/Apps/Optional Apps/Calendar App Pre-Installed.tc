@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Calendar App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c37d4b2c-788e-4be0-b51c-2bf30ca584f4</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.calendar'</defaultValue>
+      <description></description>
+      <id>96889249-839f-48c9-a74e-accee6194c1b</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.calendar.LaunchActivity'</defaultValue>
+      <description></description>
+      <id>18e738db-cc98-4b43-83bc-1c1066365a57</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>037d5351-3d2f-413b-8936-f7d1d7ed3f67</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

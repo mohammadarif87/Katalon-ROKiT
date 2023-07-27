@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Bookmark Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b5eb1d-c00f-4d5c-8913-a50ee13fb690</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>df5591c5-c656-4945-babe-f825b998c7d9</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>2d7e6741-364e-4f44-952a-15b36c2d5a6e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>aab0845a-9cad-4f6f-89fc-18659495c917</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.chrome'</defaultValue>
+      <description></description>
+      <id>b50d6c48-001c-4ad5-8de0-547847bd5dd5</id>
+      <masked>false</masked>
+      <name>appPackageF</name>
+   </variable>
+   <variable>
+      <defaultValue>'org.chromium.chrome.browser.ChromeTabbedActivity'</defaultValue>
+      <description></description>
+      <id>e6a9de9e-cd5d-409e-a9fb-5072a3070c98</id>
+      <masked>false</masked>
+      <name>appActivityF</name>
+   </variable>
+</TestCaseEntity>

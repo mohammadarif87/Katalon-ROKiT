@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Browse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea4db9b9-2f0f-4091-b411-d8c6ab7c07ac</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.vending'</defaultValue>
+      <description></description>
+      <id>6bfca667-fa55-4a8f-af15-18458129bf97</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.AssetBrowserActivity'</defaultValue>
+      <description></description>
+      <id>ce1a5889-9ed9-48f5-8942-6eb560edb9e7</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>0e4998f2-c5ba-4278-a1b5-a25775c1ce36</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

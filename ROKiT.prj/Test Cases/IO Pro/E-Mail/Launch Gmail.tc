@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch Gmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a9a8001-c26d-484d-9726-cc2b3a37ccb9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.gm'</defaultValue>
+      <description></description>
+      <id>e233b960-5017-4705-8af9-e63467afe6b2</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.mail.ui.MailActivity'</defaultValue>
+      <description></description>
+      <id>1a551919-1d57-4d9a-81e3-7bbcae8b42ec</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>32aa9210-6e28-4558-a0aa-919aa09ccf60</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.gm.ui.MailActivityGmail'</defaultValue>
+      <description></description>
+      <id>2a3c45a4-204b-4bd0-a778-6deedacafb5a</id>
+      <masked>false</masked>
+      <name>appActivityUS</name>
+   </variable>
+</TestCaseEntity>

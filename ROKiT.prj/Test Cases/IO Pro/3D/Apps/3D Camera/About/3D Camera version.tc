@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3D Camera version</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>507571ef-4878-47a0-945d-c3fc444a61c6</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.camera3d.rokit'</defaultValue>
+      <description></description>
+      <id>1c922f37-d1d9-41a4-9a35-d1c425ebded6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.mobile.depthy3d.ImageListActivity'</defaultValue>
+      <description></description>
+      <id>2ef7b60a-7309-4c8f-8f61-ce5aee0e34f7</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>6c330599-0091-450b-9e72-1aea14ad93ca</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'3.2.6'</defaultValue>
+      <description></description>
+      <id>dc7f842b-9e6e-4345-b35c-2c18e5ebc025</id>
+      <masked>false</masked>
+      <name>version</name>
+   </variable>
+</TestCaseEntity>

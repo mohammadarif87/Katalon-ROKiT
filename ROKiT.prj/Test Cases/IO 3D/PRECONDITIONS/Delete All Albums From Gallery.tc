@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete All Albums From Gallery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6062a998-30c3-472e-b93c-72907ce01fc7</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.gallery3d'</defaultValue>
+      <description></description>
+      <id>08e0e2c3-fb1e-4b3d-aba8-723705f42ed4</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.GalleryActivity'</defaultValue>
+      <description></description>
+      <id>62e3bd08-1b10-42c3-b9bf-039faa49f4a4</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>fe111e60-595d-425a-981b-1b345dbab07d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

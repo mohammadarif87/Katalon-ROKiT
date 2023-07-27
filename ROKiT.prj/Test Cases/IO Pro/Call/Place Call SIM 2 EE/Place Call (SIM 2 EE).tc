@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Call (SIM 2 EE)</name>
+   <tag></tag>
+   <comment>Run in parallel execution with Receive a Call on IO 3D from SIM 2</comment>
+   <testCaseGuid>95509056-69d1-478b-94dc-64eed26d4987</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.dialer'</defaultValue>
+      <description></description>
+      <id>872505cd-3f63-49d1-9b1b-fb7dbd37cdeb</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.app.DialtactsActivity'</defaultValue>
+      <description></description>
+      <id>e00948b0-5bf1-4ed5-ab65-e211c5b6156a</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>87e41a63-5bfe-42d2-82b6-73a3a6d48d6c</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

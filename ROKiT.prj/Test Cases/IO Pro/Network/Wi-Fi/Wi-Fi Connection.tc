@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wi-Fi Connection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c42a2979-f2b0-43a8-973e-e451163e16d5</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.youtube'</defaultValue>
+      <description></description>
+      <id>6dbff4d3-02c9-465c-a9c6-45cae819eca1</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.HomeActivity'</defaultValue>
+      <description></description>
+      <id>29cf1907-1780-4ac8-8e6b-188aa8c2b6ef</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>5d43183e-4354-43e1-a8d0-02beb6a8d8e9</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

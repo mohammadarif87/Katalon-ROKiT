@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3D Gallery Version</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>905ddf7a-19a2-4950-b2f7-ff6f82944ee5</testCaseGuid>
+   <variable>
+      <defaultValue>'com.rokit.media3d'</defaultValue>
+      <description></description>
+      <id>b8f118f3-9ed8-40ba-a37c-410bb72f7f23</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.media3d.service.navigation.SplashActivity'</defaultValue>
+      <description></description>
+      <id>d8e6aa52-50d9-40a7-8d72-0081fd4afc4e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>3f6d6f79-e173-4a21-83c5-e6449f6412cc</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'2.0.2.10'</defaultValue>
+      <description></description>
+      <id>3d6954fb-cfc1-41f2-9a5e-6e0c6a3d7d47</id>
+      <masked>false</masked>
+      <name>version</name>
+   </variable>
+</TestCaseEntity>

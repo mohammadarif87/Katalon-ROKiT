@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Receive Call on SIM 2 (Both SIMs)</name>
+   <tag></tag>
+   <comment>Run in parallel execution with Place Call to DUT 1 (SIM 2 EE) using IO 3D</comment>
+   <testCaseGuid>e1b12fec-051a-43ec-bd3a-d06e242f8f77</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>8c08403a-4c19-431c-887a-50a4e9d9a1a0</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>256cc68e-4b68-4657-8c8c-8e223c312f6b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('platformName') : 'Android', ('udid') : 'IOPRO0123456789A']</defaultValue>
+      <description></description>
+      <id>8b24ea8f-06d8-41c2-b81d-c3f549eabfdc</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

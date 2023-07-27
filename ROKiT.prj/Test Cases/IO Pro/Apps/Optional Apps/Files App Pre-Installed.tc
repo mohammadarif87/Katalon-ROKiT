@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Files App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95328b6b-3e0b-4194-abc4-569a5c8dd77a</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.documentsui'</defaultValue>
+      <description></description>
+      <id>1fa108a8-368f-49ea-9eb4-948fdb40abdc</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.LauncherActivity'</defaultValue>
+      <description></description>
+      <id>4d51f9ae-bb82-4243-ab95-a6fb14149255</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>174ad737-7dd5-4e3b-b3b4-1bc2de53993d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

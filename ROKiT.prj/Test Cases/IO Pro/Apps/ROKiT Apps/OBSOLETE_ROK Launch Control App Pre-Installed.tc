@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OBSOLETE_ROK Launch Control App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ccdab9-dc3e-41e2-8aab-3b979c1ef4e5</testCaseGuid>
+   <variable>
+      <defaultValue>'com.missioncontrol.rokaccount'</defaultValue>
+      <description></description>
+      <id>c5c99713-6928-4d50-bcfd-85d43eaeb5b9</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Activity.ActivitySplash'</defaultValue>
+      <description></description>
+      <id>a4fea7a4-7114-4245-a03b-e8b4287f4049</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d53f1217-88b9-474a-ac36-808751f148b9</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

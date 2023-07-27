@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select mock location app</name>
+   <tag></tag>
+   <comment>Install Mock Locations</comment>
+   <testCaseGuid>2ef42205-8e5f-4b3d-b3e8-f1430e7e4731</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.vending'</defaultValue>
+      <description></description>
+      <id>ac34377d-4ed3-45c5-b1dc-3706b048b1f9</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'AssetBrowserActivity'</defaultValue>
+      <description></description>
+      <id>4a197822-cd59-46d0-9d44-3321abc2b20b</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>b74ac28f-cec9-4c12-84ab-9bad75287520</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>c9929b5a-5cee-40cb-8328-5a31883a0b34</id>
+      <masked>false</masked>
+      <name>appPackage1</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>df958ec8-62f7-4c0d-8710-addd67b94a49</id>
+      <masked>false</masked>
+      <name>appActivity1</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Keep Notes App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4675b929-3fad-411e-9a3d-907dc86998e3</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.keep'</defaultValue>
+      <description></description>
+      <id>21bbec01-7fa2-4aed-8dbb-8ce63507559c</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.google.android.keep.activities.BrowseActivity'</defaultValue>
+      <description></description>
+      <id>c7d88da9-f37f-480c-afff-ca2378a58e42</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>c975c5c1-e09f-47b7-b35f-1f51482d486d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+import testlink.api.java.client.TestLinkAPIResults as TestLinkAPIResults
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+
+CustomKeywords.'com.mobile.keywords.ApplicationBehavior.startInstalledApplication'('Android', deviceInformation, appPackage, 
+    appActivity)
+
+Mobile.swipe(550, 1700, 550, 400)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Security status/android.widget.TextView0 - Security  location'), 
+    0)
+
+Mobile.tap(findTestObject('System Settings/Security And Location/View Security status/android.widget.TextView0 - Security  location'), 
+    0)
+
+Mobile.swipe(550, 1700, 550, 400)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Advanced'), 
+    0)
+
+Mobile.tap(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Advanced'), 
+    0)
+
+Mobile.swipe(550, 1700, 550, 400)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Encryption  credentials'), 
+    0)
+
+Mobile.tap(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Encryption  credentials'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Encrypt phone'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Encrypted'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Storage type'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Hardware-backed'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Trusted credentials'), 
+    0)
+
+Mobile.tap(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Trusted credentials'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Trusted credentials (1)'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - AC Camerfirma S.A.'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - USER'), 
+    0)
+
+Mobile.tap(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - USER'), 
+    0)
+
+Mobile.pressBack()
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - User credentials'), 
+    0)
+
+Mobile.tap(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - User credentials'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - No user credentials installed'), 
+    0)
+
+Mobile.pressBack()
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Install from SD card'), 
+    0)
+
+Mobile.verifyElementVisible(findTestObject('System Settings/Security And Location/View Encryption and credentials/android.widget.TextView0 - Clear credentials'), 
+    0)
+
+Mobile.pressHome()
+
+Mobile.closeApplication()
+
+not_run: CustomKeywords.'com.kms.katalon.keyword.testlink.TestlinkKeywords.updateResults'('View Encryption & credentials', '', TestLinkAPIResults.TEST_PASSED)
+

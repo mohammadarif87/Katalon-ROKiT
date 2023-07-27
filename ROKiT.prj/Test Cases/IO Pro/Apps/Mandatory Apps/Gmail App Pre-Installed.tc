@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gmail App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc249fd4-7c4f-4bd4-8f95-8dfd0e6f97e9</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.gm'</defaultValue>
+      <description></description>
+      <id>98e0baf7-5063-431f-97f8-2686bf935fb7</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.android.mail.ui.MailActivity'</defaultValue>
+      <description></description>
+      <id>4f7490ff-33d0-4194-9d3a-004b5b20da17</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>94ee2609-e500-4677-a632-63a3957268ac</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

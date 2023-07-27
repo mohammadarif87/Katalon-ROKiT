@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Front Camera Photo Resolution</name>
+   <tag></tag>
+   <comment>Check Resolution is on max (8 megapixels)
+Delete the picture taken via Camera app</comment>
+   <testCaseGuid>abcfb448-2e71-4d08-9e07-29ba5274f56e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.freeme.camera'</defaultValue>
+      <description></description>
+      <id>ff9d34d4-82e0-4b6e-ae34-3053639b6c63</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>a885c152-b467-4cbb-bfaa-a0bf029874ea</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>0804f44e-6b74-41cf-9f4d-ed9e3a86010e</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

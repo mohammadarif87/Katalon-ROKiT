@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Take Camera Video</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fac019f2-adbd-4864-a4a6-1122d65be54c</testCaseGuid>
+   <variable>
+      <defaultValue>'com.mediatek.camera'</defaultValue>
+      <description></description>
+      <id>0b2581f9-251d-4f2e-9ce5-7d82c0a83b58</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.CameraActivity'</defaultValue>
+      <description></description>
+      <id>ddab136a-bfdf-43c0-b5b0-ac7f2adb3743</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '0123456789ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>cc2720c3-ab14-47fe-91de-189e2de69b55</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

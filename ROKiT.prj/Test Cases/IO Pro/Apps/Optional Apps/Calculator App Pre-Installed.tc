@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Calculator App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec3261f6-704e-4950-b6e4-7d520b98324a</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.calculator2'</defaultValue>
+      <description></description>
+      <id>1d0d2509-584d-4494-b82f-644cbe1e4acd</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Calculator'</defaultValue>
+      <description></description>
+      <id>b5102b76-7fdb-4734-b013-9fc6b36a6dc2</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>68b55de4-374e-4ff8-9947-8617a5be4a3d</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

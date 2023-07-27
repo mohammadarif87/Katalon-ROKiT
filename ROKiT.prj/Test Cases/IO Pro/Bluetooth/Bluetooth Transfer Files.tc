@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bluetooth Transfer Files</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32d64916-1563-4dc6-93a8-7a08cf1c7f96</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.documentsui'</defaultValue>
+      <description></description>
+      <id>6dba2334-6a17-4242-bb84-58c9f86aafaa</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.LauncherActivity'</defaultValue>
+      <description></description>
+      <id>26073903-f6b0-4ddd-91a2-348e60caac0e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>0e7c2921-119a-4ae8-9167-ab183900c7b3</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

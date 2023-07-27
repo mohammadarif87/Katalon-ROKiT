@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Aeroplane Mode On</name>
+   <tag></tag>
+   <comment>Confirm Wi-Fi can be enabled and connected
+Confirm Mobile Data is not active
+GSM connection not available
+Turn Off Aeroplane Mode as leaving it on may affect other test cases</comment>
+   <testCaseGuid>3c1e86e5-12b7-4bef-9e47-817ac1edb6d7</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>b72bf237-e6b1-4f3b-92cc-1188bf3b2e66</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>00232717-db32-4e7b-bf07-9319c0e3ec43</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>1b1aa95a-3f8f-4448-b5c9-336583169225</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

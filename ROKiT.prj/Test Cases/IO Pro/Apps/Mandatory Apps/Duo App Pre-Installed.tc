@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Duo App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5752cd0-a2fa-46c9-9be0-3541d255acd5</testCaseGuid>
+   <variable>
+      <defaultValue>'com.google.android.apps.tachyon'</defaultValue>
+      <description></description>
+      <id>a581972f-d7b3-4621-a4ca-be694436e842</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.MainActivity'</defaultValue>
+      <description></description>
+      <id>c3e08a75-e32f-434e-a1dc-70267fc17790</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>e68635ee-b5f7-4425-ab42-8878179e864e</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

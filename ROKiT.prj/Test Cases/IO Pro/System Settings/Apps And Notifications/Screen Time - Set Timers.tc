@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Screen Time - Set Timers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee33d427-53d8-4d5e-b291-ba7f00a82e5e</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>1b64a1a4-14f7-4929-a7de-52526b6c055d</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>0daaa6d6-2154-4ee5-b38e-3bfde3b299f7</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>eac67b0f-4210-499b-bb98-95ba7826bae6</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.camera3d.rokit'</defaultValue>
+      <description></description>
+      <id>ccd7a5bb-286f-4ac2-8592-c87eaf1b9e9f</id>
+      <masked>false</masked>
+      <name>appPackage3DCamera</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.mobile.depthy3d.ImageListActivity'</defaultValue>
+      <description></description>
+      <id>1a5be1f0-364e-40a9-a6aa-7c97c05beff1</id>
+      <masked>false</masked>
+      <name>appActivity3DCamera</name>
+   </variable>
+</TestCaseEntity>

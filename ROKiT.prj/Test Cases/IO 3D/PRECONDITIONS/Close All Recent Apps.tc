@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Close All Recent Apps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbd9acb7-1a8a-4e56-85b1-1a72d06e2c10</testCaseGuid>
+   <variable>
+      <defaultValue>'com.android.settings'</defaultValue>
+      <description></description>
+      <id>392bd505-ad13-4bd8-a4e5-5e742140b308</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'.Settings'</defaultValue>
+      <description></description>
+      <id>9bcea93f-3500-4c4a-8d55-c024d4fd8894</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '8.1.0', ('deviceName') : 'ROKiT IO 3D (Android 8.1.0)', ('udid') : '012345689ABCDEF', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>bcd9a790-e547-4935-8566-949ce3c051bc</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

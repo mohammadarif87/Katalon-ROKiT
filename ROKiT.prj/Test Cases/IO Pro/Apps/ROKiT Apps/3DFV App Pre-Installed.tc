@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3DFV App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da0032cb-ea6d-4569-ba54-48e973050e2a</testCaseGuid>
+   <variable>
+      <defaultValue>'com.wztech.service3d'</defaultValue>
+      <description></description>
+      <id>ad7e5ff4-be08-49de-b1f4-6bea1f16b26d</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.wztech.service3d.SplashActivity'</defaultValue>
+      <description></description>
+      <id>489ccdc7-2402-4d64-88d6-b5d554c14d20</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>084d578e-16d6-4aa4-8bc6-e97fa09e00de</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

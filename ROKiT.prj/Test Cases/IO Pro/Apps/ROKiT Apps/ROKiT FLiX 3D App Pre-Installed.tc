@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ROKiT FLiX 3D App Pre-Installed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c61ea91a-8e7e-49e9-b4c2-b469220eae5d</testCaseGuid>
+   <variable>
+      <defaultValue>'com.launchcontrol.rokflix3d'</defaultValue>
+      <description></description>
+      <id>f122da22-9c2f-48e9-a3c7-37a3cc788db4</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.launchcontrol.rokflix3d.Activities.SplashActivity'</defaultValue>
+      <description></description>
+      <id>e63300e1-1f06-490c-aa7f-d0a2a59e768e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '9', ('deviceName') : 'ROKiT IO Pro (Android 9)', ('udid') : 'IOPRO0123456789A', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>9c3b1534-8698-4a98-a149-352dc8d933a2</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>
