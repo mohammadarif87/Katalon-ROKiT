@@ -1,0 +1,714 @@
+2020-10-08 14:07:30,566 [main] INFO AppiumIoPro - Home Key pressed
+2020-10-08 14:07:30,595 [main] INFO AppiumIoPro - Wait 2 seconds
+2020-10-08 14:07:31,500 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 14:07:31,509 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 14:08:40,005 [main] INFO AppiumIoPro - Home Key pressed
+2020-10-08 14:08:40,023 [main] INFO AppiumIoPro - Wait 2 seconds
+2020-10-08 14:08:40,781 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 14:08:40,792 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 14:15:27,567 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 14:15:28,363 [main] INFO AppiumIoPro - Home Key pressed
+2020-10-08 14:15:31,371 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 14:15:31,973 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 14:15:34,984 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 14:15:35,099 [main] INFO AppiumIoPro - 3D Camera is displayed in App drawer
+2020-10-08 14:15:38,262 [main] INFO AppiumIoPro - 3D Camera is clicked
+2020-10-08 14:15:43,263 [main] INFO AppiumIoPro - Wait 5 seconds
+2020-10-08 14:15:43,420 [main] INFO AppiumIoPro - Reminder is displayed
+2020-10-08 14:15:43,460 [main] INFO AppiumIoPro - Accept button is displayed
+2020-10-08 14:15:46,595 [main] INFO AppiumIoPro - Accept button is clicked
+2020-10-08 16:01:15,380 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:01:18,389 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:01:18,966 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:01:21,967 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:02:08,752 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:02:11,763 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:02:12,294 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:02:15,294 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:02:41,782 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:02:44,790 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:02:45,330 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:02:48,331 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:02:48,944 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:05:39,837 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:05:42,844 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:05:43,383 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:05:46,385 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:05:46,948 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:05:49,948 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:15:02,508 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:15:05,515 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:15:06,089 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:15:09,089 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:15:09,671 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:15:12,671 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:17:21,087 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:17:24,095 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:17:24,662 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:17:27,663 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:17:28,198 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:17:31,199 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:17:31,824 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 16:17:34,826 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:17:38,112 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 16:17:41,113 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:18:37,414 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:18:40,421 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:18:40,974 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:18:43,975 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:18:44,540 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:18:47,540 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:18:48,141 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 16:18:51,142 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:20:24,838 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:20:27,845 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:20:28,389 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:20:31,391 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:20:31,914 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:20:34,915 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:20:35,573 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 16:20:38,573 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:20:39,109 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 16:20:42,109 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:23:16,774 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 16:23:19,781 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:23:20,344 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 16:23:23,345 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:23:23,912 [main] INFO AppiumIoPro - System clicked
+2020-10-08 16:23:26,913 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:23:27,546 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 16:23:30,548 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:23:31,113 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 16:23:34,113 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 16:23:35,617 [main] INFO AppiumIoPro - Add a language
+2020-10-08 16:23:38,618 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:09:44,892 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 17:09:47,901 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:09:48,462 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 17:09:51,462 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:09:52,032 [main] INFO AppiumIoPro - System clicked
+2020-10-08 17:09:55,034 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:09:55,635 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 17:09:58,637 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:09:59,189 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 17:10:02,189 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:10:03,689 [main] INFO AppiumIoPro - Add a language
+2020-10-08 17:10:06,691 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:22:58,144 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 17:23:01,154 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:01,744 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 17:23:04,746 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:05,416 [main] INFO AppiumIoPro - System clicked
+2020-10-08 17:23:08,417 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:09,387 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 17:23:12,388 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:12,941 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 17:23:15,942 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:17,426 [main] INFO AppiumIoPro - Add a language
+2020-10-08 17:23:20,427 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:27,859 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-08 17:23:30,860 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:31,321 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-08 17:23:34,322 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:23:35,586 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-08 17:28:04,707 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 17:28:07,715 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:28:08,308 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 17:28:11,310 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:28:12,134 [main] INFO AppiumIoPro - System clicked
+2020-10-08 17:28:15,135 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:28:16,009 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 17:28:19,010 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:28:19,620 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 17:28:22,620 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:28:24,099 [main] INFO AppiumIoPro - Add a language
+2020-10-08 17:28:27,100 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:29:06,278 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 17:29:09,285 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:29:09,819 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 17:29:12,819 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:29:47,433 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-08 17:29:50,439 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:29:50,999 [main] INFO AppiumIoPro - Swipe performed
+2020-10-08 17:29:54,000 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:29:54,548 [main] INFO AppiumIoPro - System clicked
+2020-10-08 17:29:57,549 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:29:58,169 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-08 17:30:01,170 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:30:01,730 [main] INFO AppiumIoPro - Languages clicked
+2020-10-08 17:30:04,732 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:30:06,214 [main] INFO AppiumIoPro - Add a language
+2020-10-08 17:30:09,216 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:30:16,835 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-08 17:30:19,836 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:30:20,309 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-08 17:30:23,310 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-08 17:30:24,546 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 12:55:36,467 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 12:55:39,475 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:55:40,261 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 12:55:43,261 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:55:44,316 [main] INFO AppiumIoPro - System clicked
+2020-10-12 12:55:47,317 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:55:48,641 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 12:55:51,642 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:55:52,382 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 12:55:55,383 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:55:57,286 [main] INFO AppiumIoPro - Add a language
+2020-10-12 12:56:00,287 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:56:07,669 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 12:56:10,670 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:56:11,305 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 12:56:14,306 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:58:46,733 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 12:58:49,739 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:58:50,455 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 12:58:53,457 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:58:54,532 [main] INFO AppiumIoPro - System clicked
+2020-10-12 12:58:57,533 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:58:58,557 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 12:59:01,558 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:59:02,661 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 12:59:05,661 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:59:07,476 [main] INFO AppiumIoPro - Add a language
+2020-10-12 12:59:10,478 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:59:17,972 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 12:59:20,972 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 12:59:21,398 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 12:59:24,399 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:12,082 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:02:15,086 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:15,756 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:02:18,756 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:19,710 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:02:22,710 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:23,381 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:02:26,383 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:27,244 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:02:30,245 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:32,091 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:02:35,092 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:42,457 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:02:45,458 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:45,932 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:02:48,932 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:02:51,019 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:05:06,399 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:05:09,403 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:09,995 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:05:12,996 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:14,005 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:05:17,006 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:17,964 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:05:20,964 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:21,701 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:05:24,701 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:27,310 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:05:30,312 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:37,792 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:05:40,793 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:41,208 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:05:44,209 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:05:45,762 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:06:59,751 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:07:02,759 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:03,433 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:07:06,434 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:07,168 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:07:10,168 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:10,815 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:07:13,817 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:14,385 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:07:17,385 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:19,159 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:07:22,159 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:29,647 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:07:32,647 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:33,122 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:07:36,122 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:07:37,948 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:07:40,950 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:00,578 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:09:03,587 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:04,280 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:09:07,282 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:08,112 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:09:11,113 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:12,065 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:09:15,067 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:16,013 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:09:19,014 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:21,380 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:09:24,380 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:31,815 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:09:34,816 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:35,365 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:09:38,367 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:09:40,287 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:09:43,288 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:10:36,666 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:10:39,675 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:10:40,291 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:10:43,291 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:11:17,947 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:11:20,953 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:11:21,550 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:11:24,552 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:11:51,866 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:11:54,873 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:11:55,429 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:11:58,429 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:11:59,242 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:12:02,244 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:12:02,903 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:12:05,905 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:12:06,774 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:12:09,775 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:12:11,317 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:12:14,318 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:12:21,827 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:12:24,828 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:12:25,242 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:12:28,243 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:13:57,441 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:14:00,447 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:01,056 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:14:04,057 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:29,748 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:14:32,754 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:33,296 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:14:36,298 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:36,899 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:14:39,900 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:40,632 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:14:43,633 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:44,167 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:14:47,168 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:14:48,899 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:14:51,899 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:14,884 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:15:17,891 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:18,469 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:15:21,471 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:42,281 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:15:45,288 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:45,858 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:15:48,858 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:49,434 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:15:52,436 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:53,122 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:15:56,123 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:15:56,733 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:15:59,734 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:16:01,546 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:16:04,546 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:16:11,918 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:16:14,918 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:16:15,427 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:16:18,428 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:16:19,882 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:16:22,884 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:18,373 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:17:21,379 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:22,060 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:17:25,061 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:26,168 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:17:29,168 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:29,853 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:17:32,855 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:33,712 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:17:36,713 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:38,247 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:17:41,247 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:48,580 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:17:51,580 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:51,978 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:17:54,978 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:17:56,371 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:17:59,371 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:39:00,440 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:39:03,444 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:39:04,024 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:39:07,025 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:39:39,683 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:39:42,690 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:39:43,295 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:39:46,296 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:09,813 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:40:12,820 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:13,378 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:40:16,379 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:17,058 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:40:20,059 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:21,562 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:40:24,563 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:25,135 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:40:28,135 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:29,587 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:40:32,587 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:40,083 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:40:43,085 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:43,543 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:40:46,544 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:40:48,509 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 13:40:51,509 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:45:13,306 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:45:16,310 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:45:17,012 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:45:20,013 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:45:20,662 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:45:23,662 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:45:24,327 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:45:27,327 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:45:27,843 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:45:30,844 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:45:32,283 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:45:35,285 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:46:13,760 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:46:16,763 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:46:17,369 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:46:20,370 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:08,217 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:47:11,224 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:11,791 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:47:14,792 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:15,315 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:47:18,315 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:18,921 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:47:21,922 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:22,516 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:47:25,517 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:27,102 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:47:30,104 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:37,502 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:47:40,503 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:47:41,010 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:47:44,012 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:03,830 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:49:06,833 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:07,545 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:49:10,546 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:11,545 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:49:14,545 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:15,609 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:49:18,610 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:19,198 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:49:22,199 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:24,085 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:49:27,086 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:55,829 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:49:58,835 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:49:59,406 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:50:02,406 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:50:03,244 [main] INFO AppiumIoPro - System clicked
+2020-10-12 13:50:06,244 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:50:06,976 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 13:50:09,977 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:50:10,662 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 13:50:13,662 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:50:15,794 [main] INFO AppiumIoPro - Add a language
+2020-10-12 13:50:18,796 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:50:26,134 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 13:50:29,135 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:50:29,581 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 13:50:32,581 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:58:28,359 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 13:58:31,361 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 13:58:31,941 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 13:58:34,941 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:01,253 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:00:04,256 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:04,881 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:00:07,882 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:08,625 [main] INFO AppiumIoPro - System clicked
+2020-10-12 14:00:11,627 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:12,316 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 14:00:15,317 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:16,188 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 14:00:19,189 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:20,739 [main] INFO AppiumIoPro - Add a language
+2020-10-12 14:00:23,740 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:31,113 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 14:00:34,113 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:00:34,496 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 14:00:37,496 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:18,842 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:02:21,845 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:22,538 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:02:25,539 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:26,597 [main] INFO AppiumIoPro - System clicked
+2020-10-12 14:02:29,599 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:30,387 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 14:02:33,388 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:34,157 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 14:02:37,157 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:39,448 [main] INFO AppiumIoPro - Add a language
+2020-10-12 14:02:42,450 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:49,907 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 14:02:52,907 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:53,500 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 14:02:56,501 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:02:57,853 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 14:03:00,853 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:08:45,627 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:08:48,635 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:08:49,380 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:08:52,381 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:09:18,420 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:09:21,426 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:09:22,129 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:09:25,131 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:09:25,834 [main] INFO AppiumIoPro - System clicked
+2020-10-12 14:09:28,835 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:09:29,565 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 14:09:32,566 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:09:33,125 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 14:09:36,127 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:09:37,843 [main] INFO AppiumIoPro - Add a language
+2020-10-12 14:09:40,845 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:05,070 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:10:08,077 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:08,654 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:10:11,655 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:12,264 [main] INFO AppiumIoPro - System clicked
+2020-10-12 14:10:15,264 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:15,951 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 14:10:18,951 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:19,746 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 14:10:22,747 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:24,312 [main] INFO AppiumIoPro - Add a language
+2020-10-12 14:10:27,313 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:34,667 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 14:10:37,668 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:38,138 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 14:10:41,140 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:10:46,144 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 14:10:49,144 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:15:35,345 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:15:38,349 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:15:38,965 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:15:41,966 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:15:43,168 [main] INFO AppiumIoPro - System clicked
+2020-10-12 14:15:46,168 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:15:47,055 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 14:15:50,056 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:15:50,721 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 14:15:53,721 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:15:55,836 [main] INFO AppiumIoPro - Add a language
+2020-10-12 14:15:58,836 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:16:06,260 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 14:16:09,261 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:16:09,847 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 14:16:12,849 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:16:17,757 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 14:16:20,759 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:30,237 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-12 14:17:33,243 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:33,793 [main] INFO AppiumIoPro - Swipe performed
+2020-10-12 14:17:36,793 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:37,342 [main] INFO AppiumIoPro - System clicked
+2020-10-12 14:17:40,343 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:41,222 [main] INFO AppiumIoPro - Languages & input clicked
+2020-10-12 14:17:44,223 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:44,788 [main] INFO AppiumIoPro - Languages clicked
+2020-10-12 14:17:47,789 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:49,354 [main] INFO AppiumIoPro - Add a language
+2020-10-12 14:17:52,354 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:17:59,809 [main] INFO AppiumIoPro - Clicked Espanol
+2020-10-12 14:18:02,810 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:18:03,272 [main] INFO AppiumIoPro - Clicked Espana
+2020-10-12 14:18:06,273 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-12 14:18:07,637 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2020-10-12 14:18:10,639 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:58:55,641 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-23 14:58:58,650 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:58:59,215 [main] INFO AppiumIoPro - Swipe performed
+2020-10-23 14:59:02,217 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:02,849 [main] INFO AppiumIoPro - Security & location clicked
+2020-10-23 14:59:05,850 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:06,352 [main] INFO AppiumIoPro - Swipe performed
+2020-10-23 14:59:07,002 [main] INFO AppiumIoPro - Advanced clicked
+2020-10-23 14:59:10,004 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:10,505 [main] INFO AppiumIoPro - Swipe performed
+2020-10-23 14:59:11,408 [main] INFO AppiumIoPro - Screen pinning clicked
+2020-10-23 14:59:14,410 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:14,616 [main] INFO AppiumIoPro - Off clicked so switch is On
+2020-10-23 14:59:18,345 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:18,384 [main] INFO AppiumIoPro - App switch button pressed
+2020-10-23 14:59:21,385 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:21,719 [main] INFO AppiumIoPro - Clicked Settings icon on App switch
+2020-10-23 14:59:23,719 [main] INFO AppiumIoPro - Wait 2 seconds
+2020-10-23 14:59:24,380 [main] INFO AppiumIoPro - Clicked Pin
+2020-10-23 14:59:27,380 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 14:59:27,419 [main] INFO AppiumIoPro - GOT IT clicked
+2020-10-23 14:59:37,420 [main] INFO AppiumIoPro - Wait 10 seconds
+2020-10-23 15:01:12,881 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2020-10-23 15:01:15,889 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:16,475 [main] INFO AppiumIoPro - Swipe performed
+2020-10-23 15:01:19,476 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:20,090 [main] INFO AppiumIoPro - Security & location clicked
+2020-10-23 15:01:23,092 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:23,611 [main] INFO AppiumIoPro - Swipe performed
+2020-10-23 15:01:24,245 [main] INFO AppiumIoPro - Advanced clicked
+2020-10-23 15:01:27,246 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:27,779 [main] INFO AppiumIoPro - Swipe performed
+2020-10-23 15:01:28,618 [main] INFO AppiumIoPro - Screen pinning clicked
+2020-10-23 15:01:31,619 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:31,797 [main] INFO AppiumIoPro - Off clicked so switch is On
+2020-10-23 15:01:35,496 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:35,552 [main] INFO AppiumIoPro - App switch button pressed
+2020-10-23 15:01:38,552 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:38,898 [main] INFO AppiumIoPro - Clicked Settings icon on App switch
+2020-10-23 15:01:40,899 [main] INFO AppiumIoPro - Wait 2 seconds
+2020-10-23 15:01:41,551 [main] INFO AppiumIoPro - Clicked Pin
+2020-10-23 15:01:44,551 [main] INFO AppiumIoPro - Wait 3 seconds
+2020-10-23 15:01:44,687 [main] INFO AppiumIoPro - GOT IT clicked
+2020-10-23 15:01:54,687 [main] INFO AppiumIoPro - Wait 10 seconds
+2021-01-12 10:28:03,387 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-01-12 10:28:06,395 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:06,964 [main] INFO AppiumIoPro - Swipe performed
+2021-01-12 10:28:09,966 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:10,527 [main] INFO AppiumIoPro - System clicked
+2021-01-12 10:28:13,528 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:14,000 [main] INFO AppiumIoPro - Languages & input clicked
+2021-01-12 10:28:17,000 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:17,557 [main] INFO AppiumIoPro - Languages clicked
+2021-01-12 10:28:20,557 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:22,054 [main] INFO AppiumIoPro - Add a language
+2021-01-12 10:28:25,055 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:32,729 [main] INFO AppiumIoPro - Clicked Espanol
+2021-01-12 10:28:35,729 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:36,145 [main] INFO AppiumIoPro - Clicked Espana
+2021-01-12 10:28:39,146 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-01-12 10:28:40,491 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2021-01-12 10:28:43,492 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:06,123 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-05-05 15:22:09,129 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:09,797 [main] INFO AppiumIoPro - Swipe performed
+2021-05-05 15:22:12,798 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:13,450 [main] INFO AppiumIoPro - Security & location clicked
+2021-05-05 15:22:16,456 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:16,976 [main] INFO AppiumIoPro - Swipe performed
+2021-05-05 15:22:17,532 [main] INFO AppiumIoPro - Advanced clicked
+2021-05-05 15:22:20,534 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:21,068 [main] INFO AppiumIoPro - Swipe performed
+2021-05-05 15:22:21,800 [main] INFO AppiumIoPro - Screen pinning clicked
+2021-05-05 15:22:24,800 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:25,000 [main] INFO AppiumIoPro - Off clicked so switch is On
+2021-05-05 15:22:28,747 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:28,789 [main] INFO AppiumIoPro - App switch button pressed
+2021-05-05 15:22:31,794 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:32,126 [main] INFO AppiumIoPro - Clicked Settings icon on App switch
+2021-05-05 15:22:34,129 [main] INFO AppiumIoPro - Wait 2 seconds
+2021-05-05 15:22:34,780 [main] INFO AppiumIoPro - Clicked Pin
+2021-05-05 15:22:37,782 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-05-05 15:22:37,923 [main] INFO AppiumIoPro - GOT IT clicked
+2021-05-05 15:22:47,924 [main] INFO AppiumIoPro - Wait 10 seconds
+2021-06-17 00:38:35,258 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:38:38,268 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:38:39,012 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:38:42,017 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:38:42,904 [main] INFO AppiumIoPro - Security & location clicked
+2021-06-17 00:38:45,905 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:38:46,455 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:38:46,957 [main] INFO AppiumIoPro - Advanced clicked
+2021-06-17 00:38:49,963 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:38:50,505 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:40:00,456 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:40:03,466 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:04,148 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:40:07,149 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:09,497 [main] INFO AppiumIoPro - Security & location clicked
+2021-06-17 00:40:12,499 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:13,246 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:40:29,808 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:40:32,819 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:33,546 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:40:36,550 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:37,265 [main] INFO AppiumIoPro - Security & location clicked
+2021-06-17 00:40:40,268 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:40,796 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:40:41,406 [main] INFO AppiumIoPro - Advanced clicked
+2021-06-17 00:40:44,407 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:44,946 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:40:45,745 [main] INFO AppiumIoPro - Screen pinning clicked
+2021-06-17 00:40:48,750 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:40:49,045 [main] INFO AppiumIoPro - Off clicked so switch is On
+2021-06-17 00:41:34,753 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:41:37,758 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:41:38,493 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:41:41,496 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:41:42,491 [main] INFO AppiumIoPro - Security & location clicked
+2021-06-17 00:41:45,496 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:41:46,055 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:42:57,325 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:43:00,335 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:43:01,003 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:43:04,007 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:43:04,926 [main] INFO AppiumIoPro - Security & location clicked
+2021-06-17 00:43:07,930 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:43:08,525 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:44:25,391 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:44:28,400 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:44:29,027 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:44:32,033 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:44:32,680 [main] INFO AppiumIoPro - System clicked
+2021-06-17 00:44:35,686 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:44:36,278 [main] INFO AppiumIoPro - Languages & input clicked
+2021-06-17 00:44:39,280 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:44:39,925 [main] INFO AppiumIoPro - Languages clicked
+2021-06-17 00:44:42,928 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:44:44,478 [main] INFO AppiumIoPro - Add a language
+2021-06-17 00:44:47,483 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:24,982 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 00:46:27,992 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:28,696 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 00:46:31,701 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:32,380 [main] INFO AppiumIoPro - System clicked
+2021-06-17 00:46:35,382 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:35,976 [main] INFO AppiumIoPro - Languages & input clicked
+2021-06-17 00:46:38,977 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:39,632 [main] INFO AppiumIoPro - Languages clicked
+2021-06-17 00:46:42,636 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:44,130 [main] INFO AppiumIoPro - Add a language
+2021-06-17 00:46:47,136 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:52,781 [main] INFO AppiumIoPro - Clicked Espanol
+2021-06-17 00:46:55,787 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:46:56,295 [main] INFO AppiumIoPro - Clicked Espana
+2021-06-17 00:46:59,297 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 00:47:00,728 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2021-06-17 00:47:03,732 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:08:36,705 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 10:08:39,717 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:08:41,227 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 10:08:44,231 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:08:45,067 [main] INFO AppiumIoPro - System clicked
+2021-06-17 10:08:48,071 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:08:48,526 [main] INFO AppiumIoPro - Languages & input clicked
+2021-06-17 10:08:51,530 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:08:51,991 [main] INFO AppiumIoPro - Languages clicked
+2021-06-17 10:08:54,997 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:08:55,266 [main] INFO AppiumIoPro - Add a language
+2021-06-17 10:08:58,270 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:09:05,063 [main] INFO AppiumIoPro - Clicked Espanol
+2021-06-17 10:09:08,067 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 10:09:08,954 [main] INFO AppiumIoPro - Clicked Espana
+2021-06-17 10:09:11,958 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:19,785 [main] INFO AppiumIoPro - Define the wait to 10 seconds per element
+2021-06-17 11:24:22,794 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:23,435 [main] INFO AppiumIoPro - Swipe performed
+2021-06-17 11:24:26,439 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:27,005 [main] INFO AppiumIoPro - System clicked
+2021-06-17 11:24:30,009 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:30,498 [main] INFO AppiumIoPro - Languages & input clicked
+2021-06-17 11:24:33,502 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:34,076 [main] INFO AppiumIoPro - Languages clicked
+2021-06-17 11:24:37,081 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:38,540 [main] INFO AppiumIoPro - Add a language
+2021-06-17 11:24:41,545 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:47,096 [main] INFO AppiumIoPro - Clicked Espanol
+2021-06-17 11:24:50,101 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:50,518 [main] INFO AppiumIoPro - Clicked Espana
+2021-06-17 11:24:53,524 [main] INFO AppiumIoPro - Wait 3 seconds
+2021-06-17 11:24:54,835 [main] INFO AppiumIoPro - Swipe performed - Language changed to Espanol
+2021-06-17 11:24:57,837 [main] INFO AppiumIoPro - Wait 3 seconds
